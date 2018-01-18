@@ -16,17 +16,22 @@ collecting from：
 ### 2012
 
 - Wang T, Wu D J, Coates A, et al. [End-to-end text recognition with convolutional neural networks](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)[C]//Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012: 3304-3308.
+- Elagouni K, Garcia C, Mamalet F, et al. [Text recognition in videos using a recurrent connectionist approach](https://hal.archives-ouvertes.fr/hal-00753906/file/ICANN.pdf)[C]//International Conference on Artificial Neural Networks. Springer, Berlin, Heidelberg, 2012: 172-179.
+- Frinken V, Fischer A, Manmatha R, et al. [A novel word spotting method based on recurrent neural networks](https://pdfs.semanticscholar.org/17c0/413c68b69f39f94ee1246fabc0d868a8b254.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2012, 34(2): 211-224.
 
 ### 2013
 
 - Goodfellow I J, Bulatov Y, Ibarz J, et al. [Multi-digit number recognition from street view imagery using deep convolutional neural networks](https://arxiv.org/pdf/1312.6082)[J]. arXiv preprint arXiv:1312.6082, 2013.	
-
+- Bissacco A, Cummins M, Netzer Y, et al. [Photoocr: Reading text in uncontrolled conditions](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 785-792.
+- Breuel T M, Ul-Hasan A, Al-Azawi M A, et al. [High-performance OCR for printed English and Fraktur using LSTM networks](http://www.academia.edu/download/31806084/2013-breuel-high-performance-ocr-for-english-and-fraktur-using-lstm-networks.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 683-687.
+- Milyaev S, Barinova O, Novikova T, et al. [Image binarization for end-to-end text understanding in natural images](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/mbnlk_icdar2013.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 128-132.
 
 ### 2014
 
 - Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Deep structured output learning for unconstrained text recognition](https://arxiv.org/pdf/1412.5903)[J]. arXiv preprint arXiv:1412.5903, 2014.
 - Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.
+- Bluche T, Ney H, Kermorvant C. [A comparison of sequence-trained deep neural networks and recurrent neural networks optical modeling for handwriting recognition](https://pdfs.semanticscholar.org/dc34/9f4ad3823720010ec8201856ff38a8538057.pdf)[C]//International Conference on Statistical Language and Speech Processing. Springer, Cham, 2014: 199-210.
 
 ### 2015
 
@@ -34,6 +39,8 @@ collecting from：
 - Shi B, Bai X, Yao C. [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://arxiv.org/pdf/1507.05717)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017, 39(11): 2298-2304.
 - Gomez L, Karatzas D. [Object proposals for text extraction in the wild](https://arxiv.org/pdf/1509.02317)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 206-210.
 - Zhong Z, Jin L, Xie Z. [High performance offline handwritten chinese character recognition using googlenet and directional feature maps](https://arxiv.org/pdf/1505.04925)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 846-850.
+- Sahu D K, Sukhwani M. [Sequence to sequence learning for optical character recognition](https://arxiv.org/pdf/1511.04176)[J]. arXiv preprint arXiv:1511.04176, 2015.
+- Visin F, Kastner K, Cho K, et al. [Renet: A recurrent neural network based alternative to convolutional networks](https://arxiv.org/pdf/1505.00393)[J]. arXiv preprint arXiv:1505.00393, 2015.
 
 ### 2016
 
@@ -56,6 +63,7 @@ collecting from：
 - Li H, Shen C. [Reading car license plates using deep convolutional neural networks and lstms](https://arxiv.org/pdf/1601.05610)[J]. arXiv preprint arXiv:1601.05610, 2016.
 - Sivakorn S, Polakis J, Keromytis A D. [I’m not a human: Breaking the Google reCAPTCHA](http://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)[J]. Black Hat,(i), 2016: 1-12.
 - Sivakorn S, Polakis I, Keromytis A D. [I am robot:(deep) learning to break semantic image captchas](https://mirror.explodie.org/sivakorn_eurosp16.pdf)[C]//Security and Privacy (EuroS&P), 2016 IEEE European Symposium on. IEEE, 2016: 388-403.
+- Lee C Y, Osindero S. [Recursive recurrent nets with attention modeling for OCR in the wild](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2231-2239.
 
 ### 2017
 
