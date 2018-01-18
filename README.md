@@ -11,20 +11,26 @@ collecting from：
 - [7] [OCR material](http://blog.csdn.net/haluoluo211/article/details/54345026)
 
 ---
+###2012
+
+- Wang T, Wu D J, Coates A, et al. [End-to-end text recognition with convolutional neural networks](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)[C]//Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012: 3304-3308.
+
 
 ###2014
+
+- Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.
 
 ###2015
 
 ###2016
 
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.
 
 ###2017
 
 
 ###2018
-End-to-End Text Recognition with Convolutional Neural Networks
-Word Spotting and Recognition with Embedded Attributes
+
 Reading Text in the Wild with Convolutional Neural Networks
 Deep structured output learning for unconstrained text recognition
 Deep Features for Text Spotting
