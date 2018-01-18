@@ -54,9 +54,13 @@ collecting from：
 - Hu B, Liu X, Wu X, et al. [Stroke Sequence-Dependent Deep Convolutional Neural Network for Online Handwritten Chinese Character Recognition](https://arxiv.org/pdf/1610.04057)[J]. arXiv preprint arXiv:1610.04057, 2016.
 - Bluche T, Louradour J, Messina R. [Scan, attend and read: End-to-end handwritten paragraph recognition with mdlstm attention](https://arxiv.org/pdf/1604.03286)[J]. arXiv preprint arXiv:1604.03286, 2016.
 - Li H, Shen C. [Reading car license plates using deep convolutional neural networks and lstms](https://arxiv.org/pdf/1601.05610)[J]. arXiv preprint arXiv:1601.05610, 2016.
+- Sivakorn S, Polakis J, Keromytis A D. [I’m not a human: Breaking the Google reCAPTCHA](http://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)[J]. Black Hat,(i), 2016: 1-12.
+- Sivakorn S, Polakis I, Keromytis A D. [I am robot:(deep) learning to break semantic image captchas](https://mirror.explodie.org/sivakorn_eurosp16.pdf)[C]//Security and Privacy (EuroS&P), 2016 IEEE European Symposium on. IEEE, 2016: 388-403.
 
 ### 2017
 
+- Cheang T K, Chong Y S, Tay Y H. [Segmentation-free Vehicle License Plate Recognition using ConvNet-RNN](https://arxiv.org/pdf/1701.06439)[J]. arXiv preprint arXiv:1701.06439, 2017.
+- Masood S Z, Shu G, Dehghan A, et al. [License Plate Detection and Recognition Using Deeply Learned Convolutional Neural Networks](https://arxiv.org/pdf/1703.07330)[J]. arXiv preprint arXiv:1703.07330, 2017.
 - Liao M, Shi B, Bai X, et al. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)[C]//AAAI. 2017: 4161-4167.
 - Zhang X Y, Yin F, Zhang Y M, et al. [Drawing and recognizing chinese characters with recurrent neural network](https://arxiv.org/pdf/1606.06539)[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017.
 - Xie Z, Sun Z, Jin L, et al. [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten chinese text recognition](https://arxiv.org/pdf/1610.02616)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017.
@@ -81,10 +85,16 @@ collecting from：
 - Xing D, Li Z, Chen X, et al. [ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene](https://arxiv.org/pdf/1711.11249)[J]. arXiv preprint arXiv:1711.11249, 2017.
 - Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/pdf/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.
 - Ghosh S K, Valveny E, Bagdanov A D. [Visual attention models for scene text recognition](https://arxiv.org/pdf/1706.01487)[J]. arXiv preprint arXiv:1706.01487, 2017.
+- Wang X, You M, Shen C. [Adversarial generation of training examples for vehicle license plate recognition](https://arxiv.org/pdf/1707.03124)[J]. arXiv preprint arXiv:1707.03124, 2017.
 - Cheng Z, Bai F, Xu Y, et al. [Focusing Attention: Towards Accurate Text Recognition in Natural Images](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)[C]//2017 IEEE International Conference on Computer Vision (ICCV). IEEE, 2017: 5086-5094.
 - Yin F, Wu Y C, Zhang X Y, et al. [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/pdf/1709.01727)[J]. arXiv preprint arXiv:1709.01727, 2017.
+- Li H, Wang P, Shen C. [Towards End-to-End Car License Plates Detection and Recognition with Deep Neural Networks](https://arxiv.org/pdf/1709.08828)[J]. arXiv preprint arXiv:1709.08828, 2017.
 - Yang C, Yin X C, Li Z, et al. [AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition](https://arxiv.org/pdf/1710.03425)[J]. arXiv preprint arXiv:1710.03425, 2017.
 - Ren H, Wang W. [A New Hybrid-parameter Recurrent Neural Networks for Online Handwritten Chinese Character Recognition](https://arxiv.org/pdf/1711.02809)[J]. arXiv preprint arXiv:1711.02809, 2017.
+- Cheng Z, Liu X, Bai F, et al. [Arbitrarily-Oriented Text Recognition](https://arxiv.org/pdf/1711.04226)[J]. arXiv preprint arXiv:1711.04226, 2017.
+- Bartz C, Yang H, Meinel C. [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://arxiv.org/pdf/1712.05404)[J]. arXiv preprint arXiv:1712.05404, 2017.
+- Xiao X, Yang Y, Ahmad T, et al. [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/pdf/1705.05207)[J]. arXiv preprint arXiv:1705.05207, 2017.
+- Zhan H, Wang Q, Lu Y. [Handwritten digit string recognition by combination of residual network and RNN-CTC](https://arxiv.org/pdf/1710.03112)[C]//International Conference on Neural Information Processing. Springer, Cham, 2017: 583-591.
 
 ### 2018
 
