@@ -28,6 +28,7 @@ collecting from：
 - Elagouni K, Garcia C, Mamalet F, et al. [Text recognition in videos using a recurrent connectionist approach](https://hal.archives-ouvertes.fr/hal-00753906/file/ICANN.pdf)[C]//International Conference on Artificial Neural Networks. Springer, Berlin, Heidelberg, 2012: 172-179.
 - Frinken V, Fischer A, Manmatha R, et al. [A novel word spotting method based on recurrent neural networks](https://pdfs.semanticscholar.org/17c0/413c68b69f39f94ee1246fabc0d868a8b254.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2012, 34(2): 211-224.
 - Neumann L, Matas J. [Real-time scene text localization and recognition](http://fadaei.semnan.ac.ir/uploads/MV7.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 3538-3545.
+- Mishra A, Alahari K, Jawahar C V. [Top-down and bottom-up cues for scene text recognition](https://hal.inria.fr/hal-00818178/document)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 2687-2694.
 
 ### 2013
 
@@ -37,6 +38,7 @@ collecting from：
 - Milyaev S, Barinova O, Novikova T, et al. [Image binarization for end-to-end text understanding in natural images](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/mbnlk_icdar2013.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 128-132.
 - Neumann L, Matas J. [On combining multiple segmentations in scene text recognition](ftp://cmp.felk.cvut.cz/pub/cmp/articles/matas/neumann-2013-multisegmentation-icdar.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 523-527.
 - Koo H I, Kim D H. Scene text detection via connected component clustering and nontext filtering[J]. IEEE transactions on image processing, 2013, 22(6): 2296-2305.
+- Shi C, Wang C, Xiao B, et al. [Scene text recognition using part-based tree-structured character detection](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2013: 2961-2968.
 
 ### 2014
 
@@ -52,6 +54,7 @@ collecting from：
 ### 2015
 
 - Ye Q, Doermann D. Text detection and recognition in imagery: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 37(7): 1480-1500.
+- Jaderberg M. Deep learning for text spotting[D]. University of Oxford, 2015.
 - Wang Z, Yang J, Jin H, et al. [Deepfont: Identify your font from an image](https://arxiv.org/pdf/1507.03196)[C]//Proceedings of the 23rd ACM international conference on Multimedia. ACM, 2015: 451-459.
 - Shi B, Bai X, Yao C. [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://arxiv.org/pdf/1507.05717)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017, 39(11): 2298-2304.
 - Gomez L, Karatzas D. [Object proposals for text extraction in the wild](https://arxiv.org/pdf/1509.02317)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 206-210.
@@ -64,6 +67,7 @@ collecting from：
 
 ### 2016
 
+- Yin X C, Zuo Z Y, Tian S, et al. Text detection, tracking and recognition in video: a comprehensive survey[J]. IEEE Transactions on Image Processing, 2016, 25(6): 2752-2773.
 - Zhu Y, Yao C, Bai X. [Scene text detection and recognition: Recent advances and future trends](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/FCS_TextSurvey_2015.pdf)[J]. Frontiers of Computer Science, 2016, 10(1): 19-36.
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.
 - He P, Huang W, Qiao Y, et al. [Reading Scene Text in Deep Convolutional Sequences](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)[C]//AAAI. 2016: 3501-3508.
@@ -91,6 +95,10 @@ collecting from：
 - Zhang Z, Zhang C, Shen W, et al. [Multi-oriented text detection with fully convolutional networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4159-4167.
 - Fabrizio J, Robert-Seidowsky M, Dubuisson S, et al. [TextCatcher: a method to detect curved and challenging text in natural scenes](http://www.lrde.epita.fr/dload/papers/fabrizio.16.ijdar.pdf)[J]. International Journal on Document Analysis and Recognition (IJDAR), 2016, 19(2): 99-117.
 - Cho H, Sung M, Jun B. [Canny text detector: Fast and robust scene text localization algorithm](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3566-3573.
+- Gupta A, Vedaldi A, Zisserman A. [Synthetic data for text localisation in natural images](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2315-2324.
+- Veit A, Matera T, Neumann L, et al. [Coco-text: Dataset and benchmark for text detection and recognition in natural images](https://arxiv.org/pdf/1601.07140)[J]. arXiv preprint arXiv:1601.07140, 2016.
+- Huang W. [Context modeling for semantic text matching and scene text detection](https://etda.libraries.psu.edu/files/final_submissions/12356)[M]. The Pennsylvania State University, 2016.
+- Tian S, Pei W Y, Zuo Z Y, et al. [Scene Text Detection in Video by Learning Locally and Globally](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)[C]//IJCAI. 2016: 2647-2653.
 
 ### 2017
 
@@ -139,6 +147,9 @@ collecting from：
 - Ma J, Shao W, Ye H, et al. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086)[J]. arXiv preprint arXiv:1703.01086, 2017.
 - Hu H, Zhang C, Luo Y, et al. [Wordsup: Exploiting word annotations for character based text detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017.
 - Tian S, Lu S, Li C. [WeText: Scene Text Detection under Weak Supervision](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)[J]. arXiv preprint arXiv:1710.04826, 2017.
+- Bušta M, Neumann L, Matas J. [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](https://pdfs.semanticscholar.org/64ff/7f81f066a26a40f52e41931a97c166db094d.pdf)[J].
+- Wu Y, Natarajan P. [Self-organized Text Detection with Minimal Post-processing via Border Learning](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 5000-5009.
+- Rong X, Yi C, Tian Y. [Unambiguous text localization and retrieval for cluttered scenes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017: 3279-3287.
 
 ### 2018
 
