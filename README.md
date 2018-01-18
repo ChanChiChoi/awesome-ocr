@@ -17,6 +17,11 @@ collecting from：
 
 - Epshtein B, Ofek E, Wexler Y. [Detecting text in natural scenes with stroke width transform](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010: 2963-2970.
 
+### 2011
+
+- Rusinol M, Aldavert D, Toledo R, et al. [Browsing heterogeneous document collections by a segmentation-free word spotting method](http://www.cvc.uab.es/people/aldavert/documents/conferences/icdar2011.pdf)[C]//Document Analysis and Recognition (ICDAR), 2011 International Conference on. IEEE, 2011: 63-67.
+- Neumann L, Matas J. [Text localization in real-world images using efficiently pruned exhaustive search](http://cmp.felk.cvut.cz/~neumalu1/icdar2011_article.pdf)[C]//Document Analysis and Recognition (ICDAR), 2011 International Conference on. IEEE, 2011: 687-691.
+
 ### 2012
 
 - Wang T, Wu D J, Coates A, et al. [End-to-end text recognition with convolutional neural networks](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)[C]//Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012: 3304-3308.
@@ -30,6 +35,8 @@ collecting from：
 - Bissacco A, Cummins M, Netzer Y, et al. [Photoocr: Reading text in uncontrolled conditions](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 785-792.
 - Breuel T M, Ul-Hasan A, Al-Azawi M A, et al. [High-performance OCR for printed English and Fraktur using LSTM networks](http://www.academia.edu/download/31806084/2013-breuel-high-performance-ocr-for-english-and-fraktur-using-lstm-networks.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 683-687.
 - Milyaev S, Barinova O, Novikova T, et al. [Image binarization for end-to-end text understanding in natural images](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/mbnlk_icdar2013.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 128-132.
+- Neumann L, Matas J. [On combining multiple segmentations in scene text recognition](ftp://cmp.felk.cvut.cz/pub/cmp/articles/matas/neumann-2013-multisegmentation-icdar.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 523-527.
+- Koo H I, Kim D H. Scene text detection via connected component clustering and nontext filtering[J]. IEEE transactions on image processing, 2013, 22(6): 2296-2305.
 
 ### 2014
 
