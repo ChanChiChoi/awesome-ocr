@@ -7,10 +7,9 @@ collecting from：
 - [3] [chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 - [4] [whitelok/image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
 - [5] [文字检测与识别资源](http://blog.csdn.net/PeaceInMind/article/details/51387367)
-- [6] [再探OCR](http://blog.csdn.net/traumland/article/details/51749582)
-- [7] [OCR material](http://blog.csdn.net/haluoluo211/article/details/54345026)
-- [8] [handong1587](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
-- [9] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
+- [6] [OCR material](http://blog.csdn.net/haluoluo211/article/details/54345026)
+- [7] [handong1587](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
+- [8] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 
 ---
 ### 2010 
