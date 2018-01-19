@@ -14,7 +14,7 @@ collecting from：
 ---
 ### 2010 
 
-- Epshtein B, Ofek E, Wexler Y. [Detecting text in natural scenes with stroke width transform](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010: 2963-2970.
+- Epshtein B, Ofek E, Wexler Y. [Detecting text in natural scenes with stroke width transform](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010: 2963-2970.[[code](https://github.com/aperrau/DetectText)]
 
 ### 2011
 
@@ -23,17 +23,17 @@ collecting from：
 
 ### 2012
 
-- Wang T, Wu D J, Coates A, et al. [End-to-end text recognition with convolutional neural networks](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)[C]//Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012: 3304-3308.
+- Wang T, Wu D J, Coates A, et al. [End-to-end text recognition with convolutional neural networks](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)[C]//Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012: 3304-3308.[[code](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)]
 - Elagouni K, Garcia C, Mamalet F, et al. [Text recognition in videos using a recurrent connectionist approach](https://hal.archives-ouvertes.fr/hal-00753906/file/ICANN.pdf)[C]//International Conference on Artificial Neural Networks. Springer, Berlin, Heidelberg, 2012: 172-179.
 - Frinken V, Fischer A, Manmatha R, et al. [A novel word spotting method based on recurrent neural networks](https://pdfs.semanticscholar.org/17c0/413c68b69f39f94ee1246fabc0d868a8b254.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2012, 34(2): 211-224.
-- Neumann L, Matas J. [Real-time scene text localization and recognition](http://fadaei.semnan.ac.ir/uploads/MV7.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 3538-3545.
+- Neumann L, Matas J. [Real-time scene text localization and recognition](http://fadaei.semnan.ac.ir/uploads/MV7.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 3538-3545.[[code](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)]
 - Mishra A, Alahari K, Jawahar C V. [Top-down and bottom-up cues for scene text recognition](https://hal.inria.fr/hal-00818178/document)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 2687-2694.
 
 ### 2013
 
 - Goodfellow I J, Bulatov Y, Ibarz J, et al. [Multi-digit number recognition from street view imagery using deep convolutional neural networks](https://arxiv.org/pdf/1312.6082)[J]. arXiv preprint arXiv:1312.6082, 2013.	
 - Bissacco A, Cummins M, Netzer Y, et al. [Photoocr: Reading text in uncontrolled conditions](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 785-792.
-- Breuel T M, Ul-Hasan A, Al-Azawi M A, et al. [High-performance OCR for printed English and Fraktur using LSTM networks](http://www.academia.edu/download/31806084/2013-breuel-high-performance-ocr-for-english-and-fraktur-using-lstm-networks.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 683-687.
+- Breuel T M, Ul-Hasan A, Al-Azawi M A, et al. [High-performance OCR for printed English and Fraktur using LSTM networks](http://www.academia.edu/download/31806084/2013-breuel-high-performance-ocr-for-english-and-fraktur-using-lstm-networks.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 683-687.[[code]()]
 - Milyaev S, Barinova O, Novikova T, et al. [Image binarization for end-to-end text understanding in natural images](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/mbnlk_icdar2013.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 128-132.
 - Neumann L, Matas J. [On combining multiple segmentations in scene text recognition](ftp://cmp.felk.cvut.cz/pub/cmp/articles/matas/neumann-2013-multisegmentation-icdar.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 523-527.
 - Koo H I, Kim D H. Scene text detection via connected component clustering and nontext filtering[J]. IEEE transactions on image processing, 2013, 22(6): 2296-2305.
@@ -41,12 +41,12 @@ collecting from：
 
 ### 2014
 
-- Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.
+- Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.[[code](https://github.com/almazan/watts)]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Deep structured output learning for unconstrained text recognition](https://arxiv.org/pdf/1412.5903)[J]. arXiv preprint arXiv:1412.5903, 2014.
-- Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.
+- Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
 - Bluche T, Ney H, Kermorvant C. [A comparison of sequence-trained deep neural networks and recurrent neural networks optical modeling for handwriting recognition](https://pdfs.semanticscholar.org/dc34/9f4ad3823720010ec8201856ff38a8538057.pdf)[C]//International Conference on Statistical Language and Speech Processing. Springer, Cham, 2014: 199-210.
 - Yao C, Bai X, Liu W. [A unified framework for multioriented text detection and recognition](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/[21]%202014%20TIP%20Yaocong.pdf)[J]. IEEE Transactions on Image Processing, 2014, 23(11): 4737-4749.
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
 - Huang W, Qiao Y, Tang X. [Robust scene text detection with convolution neural network induced mser trees](http://www.whuang.org/papers/whuang2014_eccv.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2014: 497-511.
 - Yin X C, Yin X, Huang K, et al. [Robust text detection in natural scene images](https://arxiv.org/pdf/1301.2628)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(5): 970-983.
 
@@ -61,15 +61,15 @@ collecting from：
 - Sahu D K, Sukhwani M. [Sequence to sequence learning for optical character recognition](https://arxiv.org/pdf/1511.04176)[J]. arXiv preprint arXiv:1511.04176, 2015.
 - Visin F, Kastner K, Cho K, et al. [Renet: A recurrent neural network based alternative to convolutional networks](https://arxiv.org/pdf/1505.00393)[J]. arXiv preprint arXiv:1505.00393, 2015.
 - Shi B, Yao C, Zhang C, et al. [Automatic script identification in the wild](https://arxiv.org/pdf/1505.02982)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 531-535.
-- Busta M, Neumann L, Matas J. [Fastext: Efficient unconstrained scene text detector](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Busta_FASText_Efficient_Unconstrained_ICCV_2015_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1206-1214.
-- Zhang Z, Shen W, Yao C, et al. [Symmetry-based text line detection in natural scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Symmetry-Based_Text_Line_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 2558-2567.
+- Busta M, Neumann L, Matas J. [Fastext: Efficient unconstrained scene text detector](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Busta_FASText_Efficient_Unconstrained_ICCV_2015_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1206-1214.[[code](https://github.com/MichalBusta/FASText)]
+- Zhang Z, Shen W, Yao C, et al. [Symmetry-based text line detection in natural scenes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Symmetry-Based_Text_Line_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 2558-2567.[[code](https://github.com/stupidZZ/Symmetry_Text_Line_Detection)]
 
 ### 2016
 
 - Yin X C, Zuo Z Y, Tian S, et al. Text detection, tracking and recognition in video: a comprehensive survey[J]. IEEE Transactions on Image Processing, 2016, 25(6): 2752-2773.
 - Zhu Y, Yao C, Bai X. [Scene text detection and recognition: Recent advances and future trends](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/FCS_TextSurvey_2015.pdf)[J]. Frontiers of Computer Science, 2016, 10(1): 19-36.
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
-- He P, Huang W, Qiao Y, et al. [Reading Scene Text in Deep Convolutional Sequences](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)[C]//AAAI. 2016: 3501-3508.
+- He P, Huang W, Qiao Y, et al. [Reading Scene Text in Deep Convolutional Sequences](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)[C]//AAAI. 2016: 3501-3508.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
 - Lee C Y, Osindero S. [Recursive recurrent nets with attention modeling for OCR in the wild](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2231-2239.
 - Hafemann L G, Sabourin R, Oliveira L S. [Writer-independent feature learning for offline signature verification using deep convolutional neural networks](https://arxiv.org/pdf/1604.00974)[C]//Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE, 2016: 2576-2583.
 - Zhong Z, Jin L, Zhang S, et al. [Deeptext: A unified framework for text proposal generation and text detection in natural images](https://arxiv.org/pdf/1605.07314)[J]. arXiv preprint arXiv:1605.07314, 2016.
@@ -140,9 +140,9 @@ collecting from：
 - Xiao X, Yang Y, Ahmad T, et al. [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/pdf/1705.05207)[J]. arXiv preprint arXiv:1705.05207, 2017.
 - Zhan H, Wang Q, Lu Y. [Handwritten digit string recognition by combination of residual network and RNN-CTC](https://arxiv.org/pdf/1710.03112)[C]//International Conference on Neural Information Processing. Springer, Cham, 2017: 583-591.
 - Le T A, Baydin A G, Zinkov R, et al. [Using Synthetic Data to Train Neural Networks is Model-Based Reasoning](https://arxiv.org/pdf/1703.00868)[J]. arXiv preprint arXiv:1703.00868, 2017.
-- Kang C, Kim G, Yoo S I. [Detection and Recognition of Text Embedded in Online Images via Neural Context Models](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)[C]//AAAI. 2017: 4103-4110.
+- Kang C, Kim G, Yoo S I. [Detection and Recognition of Text Embedded in Online Images via Neural Context Models](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)[C]//AAAI. 2017: 4103-4110.[[code](https://github.com/cmkang/CTSN)]
 - Lyu P, Bai X, Yao C, et al. [Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis](https://arxiv.org/pdf/1706.08789)[J]. arXiv preprint arXiv:1706.08789, 2017.
-- Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/pdf/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.
+- Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/pdf/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
 - Ma J, Shao W, Ye H, et al. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086)[J]. arXiv preprint arXiv:1703.01086, 2017.
 - Hu H, Zhang C, Luo Y, et al. [Wordsup: Exploiting word annotations for character based text detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017.
 - Tian S, Lu S, Li C. [WeText: Scene Text Detection under Weak Supervision](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)[J]. arXiv preprint arXiv:1710.04826, 2017.
