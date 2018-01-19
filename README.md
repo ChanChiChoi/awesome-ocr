@@ -69,7 +69,7 @@ collecting from：
 
 - Yin X C, Zuo Z Y, Tian S, et al. Text detection, tracking and recognition in video: a comprehensive survey[J]. IEEE Transactions on Image Processing, 2016, 25(6): 2752-2773.
 - Zhu Y, Yao C, Bai X. [Scene text detection and recognition: Recent advances and future trends](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/FCS_TextSurvey_2015.pdf)[J]. Frontiers of Computer Science, 2016, 10(1): 19-36.
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
 - He P, Huang W, Qiao Y, et al. [Reading Scene Text in Deep Convolutional Sequences](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121)[C]//AAAI. 2016: 3501-3508.
 - Lee C Y, Osindero S. [Recursive recurrent nets with attention modeling for OCR in the wild](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2231-2239.
 - Hafemann L G, Sabourin R, Oliveira L S. [Writer-independent feature learning for offline signature verification using deep convolutional neural networks](https://arxiv.org/pdf/1604.00974)[C]//Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE, 2016: 2576-2583.
