@@ -31,24 +31,29 @@ collecting from：
 
 ### 2013
 
-- Goodfellow I J, Bulatov Y, Ibarz J, et al. [Multi-digit number recognition from street view imagery using deep convolutional neural networks](https://arxiv.org/pdf/1312.6082)[J]. arXiv preprint arXiv:1312.6082, 2013.	
+- Yin X C, Yin X, Huang K, et al. [Robust text detection in natural scene images](https://arxiv.org/pdf/1301.2628)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(5): 970-983.
 - Bissacco A, Cummins M, Netzer Y, et al. [Photoocr: Reading text in uncontrolled conditions](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bissacco_PhotoOCR_Reading_Text_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 785-792.
 - Breuel T M, Ul-Hasan A, Al-Azawi M A, et al. [High-performance OCR for printed English and Fraktur using LSTM networks](http://www.academia.edu/download/31806084/2013-breuel-high-performance-ocr-for-english-and-fraktur-using-lstm-networks.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 683-687.[[code]()]
 - Milyaev S, Barinova O, Novikova T, et al. [Image binarization for end-to-end text understanding in natural images](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/mbnlk_icdar2013.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 128-132.
 - Neumann L, Matas J. [On combining multiple segmentations in scene text recognition](ftp://cmp.felk.cvut.cz/pub/cmp/articles/matas/neumann-2013-multisegmentation-icdar.pdf)[C]//Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE, 2013: 523-527.
 - Koo H I, Kim D H. Scene text detection via connected component clustering and nontext filtering[J]. IEEE transactions on image processing, 2013, 22(6): 2296-2305.
 - Shi C, Wang C, Xiao B, et al. [Scene text recognition using part-based tree-structured character detection](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2013: 2961-2968.
+- Halima M B, Karray H, Alimi A M. [Arabic text recognition in video sequences](https://arxiv.org/abs/1308.3243)[J]. arXiv preprint arXiv:1308.3243, 2013.
+- Zaghden N, Khelifi B, Alimi A M, et al. [Text Recognition in both ancient and cartographic documents](https://arxiv.org/abs/1308.6309)[J]. arXiv preprint arXiv:1308.6309, 2013.
+- Alsharif O, Pineau J. [End-to-end text recognition with hybrid HMM maxout models](https://arxiv.org/abs/1310.1811)[J]. arXiv preprint arXiv:1310.1811, 2013.
+- Louradour J, Kermorvant C. [Curriculum learning for handwritten text line recognition](https://arxiv.org/abs/1312.1737)[C]//Document Analysis Systems (DAS), 2014 11th IAPR International Workshop on. IEEE, 2014: 56-60.
+- Goodfellow I J, Bulatov Y, Ibarz J, et al. [Multi-digit number recognition from street view imagery using deep convolutional neural networks](https://arxiv.org/pdf/1312.6082)[J]. arXiv preprint arXiv:1312.6082, 2013.	
 
 ### 2014
 
 - Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.[[code](https://github.com/almazan/watts)]
-
 - Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
 - Bluche T, Ney H, Kermorvant C. [A comparison of sequence-trained deep neural networks and recurrent neural networks optical modeling for handwriting recognition](https://pdfs.semanticscholar.org/dc34/9f4ad3823720010ec8201856ff38a8538057.pdf)[C]//International Conference on Statistical Language and Speech Processing. Springer, Cham, 2014: 199-210.
 - Yao C, Bai X, Liu W. [A unified framework for multioriented text detection and recognition](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/[21]%202014%20TIP%20Yaocong.pdf)[J]. IEEE Transactions on Image Processing, 2014, 23(11): 4737-4749.
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
+(http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
 - Huang W, Qiao Y, Tang X. [Robust scene text detection with convolution neural network induced mser trees](http://www.whuang.org/papers/whuang2014_eccv.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2014: 497-511.
-- Yin X C, Yin X, Huang K, et al. [Robust text detection in natural scene images](https://arxiv.org/pdf/1301.2628)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(5): 970-983.
+- Bhowmick S, Banerjee P. [Bangla text recognition from video sequence: A new focus](https://arxiv.org/abs/1401.1190)[J]. arXiv preprint arXiv:1401.1190, 2014.
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Deep structured output learning for unconstrained text recognition](https://arxiv.org/pdf/1412.5903)[J]. arXiv preprint arXiv:1412.5903, 2014.
 
