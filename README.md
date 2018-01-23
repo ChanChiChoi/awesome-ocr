@@ -50,10 +50,9 @@ collecting from：
 - Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
 - Bluche T, Ney H, Kermorvant C. [A comparison of sequence-trained deep neural networks and recurrent neural networks optical modeling for handwriting recognition](https://pdfs.semanticscholar.org/dc34/9f4ad3823720010ec8201856ff38a8538057.pdf)[C]//International Conference on Statistical Language and Speech Processing. Springer, Cham, 2014: 199-210.
 - Yao C, Bai X, Liu W. [A unified framework for multioriented text detection and recognition](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/[21]%202014%20TIP%20Yaocong.pdf)[J]. IEEE Transactions on Image Processing, 2014, 23(11): 4737-4749.
-(http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
 - Huang W, Qiao Y, Tang X. [Robust scene text detection with convolution neural network induced mser trees](http://www.whuang.org/papers/whuang2014_eccv.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2014: 497-511.
 - Bhowmick S, Banerjee P. [Bangla text recognition from video sequence: A new focus](https://arxiv.org/abs/1401.1190)[J]. arXiv preprint arXiv:1401.1190, 2014.
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model]
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Deep structured output learning for unconstrained text recognition](https://arxiv.org/pdf/1412.5903)[J]. arXiv preprint arXiv:1412.5903, 2014.
 
