@@ -46,6 +46,7 @@ collecting from：
 
 ### 2014
 
+- Bušta M, Drtina T, Helekal D, et al. [Efficient character skew rectification in scene text images](https://pdfs.semanticscholar.org/7874/6473cbf9452cd0d35f7bbbb26b50ef9dc730.pdf)[C]//Asian Conference on Computer Vision. Springer, Cham, 2014: 134-146.
 - Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.[[code](https://github.com/almazan/watts)]
 - Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
 - Bluche T, Ney H, Kermorvant C. [A comparison of sequence-trained deep neural networks and recurrent neural networks optical modeling for handwriting recognition](https://pdfs.semanticscholar.org/dc34/9f4ad3823720010ec8201856ff38a8538057.pdf)[C]//International Conference on Statistical Language and Speech Processing. Springer, Cham, 2014: 199-210.
