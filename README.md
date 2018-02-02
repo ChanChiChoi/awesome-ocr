@@ -132,7 +132,7 @@ collecting from：
 - Ma J, Shao W, Ye H, et al. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086)[J]. arXiv preprint arXiv:1703.01086, 2017.
 - Qin S, Manduchi R. [Cascaded Segmentation-Detection Networks for Word-Level Text Spotting](https://arxiv.org/pdf/1704.00834)[J]. arXiv preprint arXiv:1704.00834, 2017.
 - Zhou X, Yao C, Wen H, et al. [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155)[J]. arXiv preprint arXiv:1704.03155, 2017.[[code](https://github.com/argman/EAST)]
-- Wojna Z, Gorban A, Lee D S, et al. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549)[J]. arXiv preprint arXiv:1704.03549, 2017.[[code](https://github.com/tensorflow/models/tree/master/attention_ocr)]
+- Wojna Z, Gorban A, Lee D S, et al. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549)[J]. arXiv preprint arXiv:1704.03549, 2017.[[code](https://github.com/tensorflow/models/tree/master/research/attention_ocr)]
 - Moysset B, Kermorvant C, Wolf C. [Full-Page Text Recognition: Learning Where to Start and When to Stop](https://arxiv.org/pdf/1704.08628)[J]. arXiv preprint arXiv:1704.08628, 2017.
 - Nakamura T, Zhu A, Yanai K, et al. [Scene Text Eraser](https://arxiv.org/pdf/1705.02772)[J]. arXiv preprint arXiv:1705.02772, 2017.
 - Xiao X, Yang Y, Ahmad T, et al. [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/pdf/1705.05207)[J]. arXiv preprint arXiv:1705.05207, 2017.
