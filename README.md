@@ -53,8 +53,8 @@ collecting from：
 - Yao C, Bai X, Liu W. [A unified framework for multioriented text detection and recognition](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/[21]%202014%20TIP%20Yaocong.pdf)[J]. IEEE Transactions on Image Processing, 2014, 23(11): 4737-4749.
 - Huang W, Qiao Y, Tang X. [Robust scene text detection with convolution neural network induced mser trees](http://www.whuang.org/papers/whuang2014_eccv.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2014: 497-511.
 - Bhowmick S, Banerjee P. [Bangla text recognition from video sequence: A new focus](https://arxiv.org/abs/1401.1190)[J]. arXiv preprint arXiv:1401.1190, 2014.
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)]
-- Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[code](http://www.robots.ox.ac.uk/~vgg/research/text/)]
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Synthetic data and artificial neural networks for natural scene text recognition](https://arxiv.org/pdf/1406.2227)[J]. arXiv preprint arXiv:1406.2227, 2014.[[model](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz);[offical website](http://www.robots.ox.ac.uk/~vgg/data/text/)]
+- Jaderberg M, Simonyan K, Vedaldi A, et al. [Reading text in the wild with convolutional neural networks](https://arxiv.org/pdf/1412.1842)[J]. International Journal of Computer Vision, 2016, 116(1): 1-20.[[offical website](http://www.robots.ox.ac.uk/~vgg/research/text/)]
 - Jaderberg M, Simonyan K, Vedaldi A, et al. [Deep structured output learning for unconstrained text recognition](https://arxiv.org/pdf/1412.5903)[J]. arXiv preprint arXiv:1412.5903, 2014.
 
 ### 2015
@@ -132,7 +132,7 @@ collecting from：
 - Ma J, Shao W, Ye H, et al. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086)[J]. arXiv preprint arXiv:1703.01086, 2017.
 - Qin S, Manduchi R. [Cascaded Segmentation-Detection Networks for Word-Level Text Spotting](https://arxiv.org/pdf/1704.00834)[J]. arXiv preprint arXiv:1704.00834, 2017.
 - Zhou X, Yao C, Wen H, et al. [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155)[J]. arXiv preprint arXiv:1704.03155, 2017.[[code](https://github.com/argman/EAST)]
-- Wojna Z, Gorban A, Lee D S, et al. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549)[J]. arXiv preprint arXiv:1704.03549, 2017.[[code](https://github.com/tensorflow/models/tree/master/research/attention_ocr)]
+- Wojna Z, Gorban A, Lee D S, et al. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549)[J]. arXiv preprint arXiv:1704.03549, 2017.[[offical](https://github.com/tensorflow/models/tree/master/research/attention_ocr);[similar](https://github.com/da03/Attention-OCR)]
 - Moysset B, Kermorvant C, Wolf C. [Full-Page Text Recognition: Learning Where to Start and When to Stop](https://arxiv.org/pdf/1704.08628)[J]. arXiv preprint arXiv:1704.08628, 2017.
 - Nakamura T, Zhu A, Yanai K, et al. [Scene Text Eraser](https://arxiv.org/pdf/1705.02772)[J]. arXiv preprint arXiv:1705.02772, 2017.
 - Xiao X, Yang Y, Ahmad T, et al. [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/pdf/1705.05207)[J]. arXiv preprint arXiv:1705.05207, 2017.
