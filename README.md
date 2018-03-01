@@ -14,7 +14,7 @@ collecting from：
 ---
 ### 2009
 
-- de T. Campos, B. R. Babu, and M. Varma. [Character recognition in natural images](https://pdfs.semanticscholar.org/0069/36c99dfba0edf6a230dfed2e4e9fba0d230d.pdf). In VISAPP, 2009
+- 【Synthetic data】de T. Campos, B. R. Babu, and M. Varma. [Character recognition in natural images](https://pdfs.semanticscholar.org/0069/36c99dfba0edf6a230dfed2e4e9fba0d230d.pdf). In VISAPP, 2009
 
 ### 2010 
 
