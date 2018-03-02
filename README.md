@@ -126,7 +126,7 @@ collecting from：
 - Shahin A A. [Printed Arabic Text Recognition using Linear and Nonlinear Regression](https://arxiv.org/pdf/1702.01444)[J]. arXiv preprint arXiv:1702.01444, 2017.
 - Smith R, Gu C, Lee D S, et al. [End-to-end interpretation of the french street name signs dataset](https://arxiv.org/pdf/1702.03970)[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 411-426.[[code](https://github.com/tensorflow/models/tree/master/street)]
 - Bazazian D, Gomez R, Nicolaou A, et al. [Improving Text Proposals for Scene Images with Fully Convolutional Networks](https://arxiv.org/pdf/1702.05089)[J]. arXiv preprint arXiv:1702.05089, 2017.
-- Le T A, Baydin A G, Zinkov R, et al. [Using Synthetic Data to Train Neural Networks is Model-Based Reasoning](https://arxiv.org/pdf/1703.00868)[J]. arXiv preprint arXiv:1703.00868, 2017.
+- 【synthetic Captcha】Le T A, Baydin A G, Zinkov R, et al. [Using Synthetic Data to Train Neural Networks is Model-Based Reasoning](https://arxiv.org/pdf/1703.00868)[J]. arXiv preprint arXiv:1703.00868, 2017.
 - Liu Y, Jin L. [Deep matching prior network: Toward tighter multi-oriented text detection](https://arxiv.org/pdf/1703.01425)[J]. arXiv preprint arXiv:1703.01425, 2017.
 - Shi B, Bai X, Belongie S. [Detecting Oriented Text in Natural Images by Linking Segments](https://arxiv.org/pdf/1703.06520)[J]. arXiv preprint arXiv:1703.06520, 2017.[[code](https://github.com/dengdan/seglink)]
 - Masood S Z, Shu G, Dehghan A, et al. [License Plate Detection and Recognition Using Deeply Learned Convolutional Neural Networks](https://arxiv.org/pdf/1703.07330)[J]. arXiv preprint arXiv:1703.07330, 2017.
