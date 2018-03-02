@@ -112,7 +112,7 @@ collecting from：
 - Zhang X Y, Yin F, Zhang Y M, et al. [Drawing and recognizing chinese characters with recurrent neural network](https://arxiv.org/pdf/1606.06539)[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017.
 - Yao C, Bai X, Sang N, et al. [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/pdf/1606.09002)[J]. arXiv preprint arXiv:1606.09002, 2016.
 - Hassanien A M A. [Sequence to sequence learning for unconstrained scene text recognition](https://arxiv.org/pdf/1607.06125)[J]. arXiv preprint arXiv:1607.06125, 2016.
-- Krishnan P, Jawahar C V. [Generating Synthetic Data for Text Recognition](https://arxiv.org/abs/1608.04224)[J]. arXiv preprint arXiv:1608.04224, 2016.
+- 【Synthetic data】 Krishnan P, Jawahar C V. [Generating Synthetic Data for Text Recognition](https://arxiv.org/abs/1608.04224)[J]. arXiv preprint arXiv:1608.04224, 2016.
 - 【CTPN】Tian Z, Huang W, He T, et al. [Detecting text in natural image with connectionist text proposal network](https://arxiv.org/pdf/1609.03605)[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 56-72.[[code](https://github.com/eragonruan/text-detection-ctpn);[code](https://github.com/qingswu/CTPN);[code](https://github.com/tianzhi0549/CTPN)]
 - Xie Z, Sun Z, Jin L, et al. [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten chinese text recognition](https://arxiv.org/pdf/1610.02616)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017.
 - Hu B, Liu X, Wu X, et al. [Stroke Sequence-Dependent Deep Convolutional Neural Network for Online Handwritten Chinese Character Recognition](https://arxiv.org/pdf/1610.04057)[J]. arXiv preprint arXiv:1610.04057, 2016.
