@@ -179,7 +179,7 @@ collecting from：
 - Liu X, Liang D, Yan S, et al. [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/pdf/1801.01671)[J]. arXiv preprint arXiv:1801.01671, 2018.
 - Liao M, Shi B, Bai X. [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/pdf/1801.02765)[J]. arXiv preprint arXiv:1801.02765, 2018.
 - Seunghoon Hong, Dingdong Yang, Jongwook Choi, Honglak Lee. [Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis](https://arxiv.org/abs/1801.05091v1). arXiv preprint arXiv:1801.05091, 2018.
-- Yash Patel, Michal Bušta, Jiri Matas. [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text] (https://arxiv.org/abs/1801.09919v1). arXiv preprint arXiv:1801.09919, 2018.
+- Yash Patel, Michal Bušta, Jiri Matas. [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919v1). arXiv preprint arXiv:1801.09919, 2018.
 - Yixing Zhu, Jun Du. [Sliding Line Point Regression for Shape Robust Scene Text Detection](https://arxiv.org/abs/1801.09969v1). arXiv preprint arXiv:1801.09969, 2018.
 - Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai. [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948v2). arXiv preprint arXiv:1802.08948, 2018.
 
