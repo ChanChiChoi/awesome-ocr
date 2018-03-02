@@ -142,12 +142,16 @@ collecting from：
 - Xiao X, Yang Y, Ahmad T, et al. [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/pdf/1705.05207)[J]. arXiv preprint arXiv:1705.05207, 2017.
 - Polzounov A, Ablavatski A, Escalera S, et al. [WordFence: Text Detection in Natural Images with Border Awareness](https://arxiv.org/pdf/1705.05483)[J]. arXiv preprint arXiv:1705.05483, 2017.
 - Ghosh S K, Valveny E, Bagdanov A D. [Visual attention models for scene text recognition](https://arxiv.org/pdf/1706.01487)[J]. arXiv preprint arXiv:1706.01487, 2017.
-- Lyu P, Bai X, Yao C, et al. [Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis](https://arxiv.org/pdf/1706.08789)[J]. arXiv preprint arXiv:1706.08789, 2017.
+- Lyu P, Bai X, Yao C, et al. [Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis](https://arxiv.org/pdf/1706.08789)[J]. arXiv preprint arXiv:1706.04041, 2017.
+- Shervin Minaee, Yao Wang. [Text Extraction From Texture Images Using Masked Signal Decomposition](https://arxiv.org/abs/1706.04041). arXiv preprint arXiv:1706.08789, 2017.
 - Jiang Y, Zhu X, Wang X, et al. [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/pdf/1706.09579)[J]. arXiv preprint arXiv:1706.09579, 2017.
 - Ghosh S, Valveny E. [R-PHOC: Segmentation-Free Word Spotting using CNN](https://arxiv.org/pdf/1707.01294)[J]. arXiv preprint arXiv:1707.01294, 2017.
 - Wang X, You M, Shen C. [Adversarial generation of training examples for vehicle license plate recognition](https://arxiv.org/pdf/1707.03124)[J]. arXiv preprint arXiv:1707.03124, 2017.
 - Li H, Wang P, Shen C. [Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)[J]. arXiv preprint arXiv:1707.03985, 2017.
+- Partha Pratim Roy, Ayan Kumar Bhunia, Umapada Pal. [Date-Field Retrieval in Scene Image and Video Frames using Text Enhancement and Shape Coding](https://arxiv.org/abs/1707.06833). arXiv preprint arXiv:1707.06833, 2017.
+- Aneeshan Sain, Ayan Kumar Bhunia, Partha Pratim Roy, Umapada Pal. [Multi-Oriented Text Detection and Verification in Video Frames and Scene Images](https://arxiv.org/abs/1707.07150). arXiv preprint arXiv:1707.07150, 2017.
 - Jiang F, Hao Z, Liu X. [Deep Scene Text Detection with Connected Component Proposals](https://arxiv.org/pdf/1708.05133)[J]. arXiv preprint arXiv:1708.05133, 2017.
+- Amarnath R, P. Nagabhushan. [Spotting Separator Points at Line Terminals in Compressed Document Images for Text-line Segmentation](https://arxiv.org/abs/1708.05545). arXiv preprint arXiv:1708.05545, 2017.
 - Bhunia A K, Kumar G, Roy P P, et al. [Text recognition in scene image and video frame using Color Channel selection](https://arxiv.org/pdf/1707.06810)[J]. Multimedia Tools and Applications, 2017: 1-28.
 - Bartz C, Yang H, Meinel C. [STN-OCR: A single Neural Network for Text Detection and Text Recognition](https://arxiv.org/pdf/1707.08831)[J]. arXiv preprint arXiv:1707.08831, 2017.[[code](https://github.com/Bartzi/stn-ocr)]
 - Hu H, Zhang C, Luo Y, et al. [Wordsup: Exploiting word annotations for character based text detection](https://arxiv.org/abs/1708.06720)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017.
@@ -166,6 +170,7 @@ collecting from：
 - Cheng Z, Liu X, Bai F, et al. [Arbitrarily-Oriented Text Recognition](https://arxiv.org/pdf/1711.04226)[J]. arXiv preprint arXiv:1711.04226, 2017.
 - Zhang S, Liu Y, Jin L, et al. [Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/pdf/1711.04249)[J]. arXiv preprint arXiv:1711.04249, 2017.
 - Xing D, Li Z, Chen X, et al. [ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene](https://arxiv.org/pdf/1711.11249)[J]. arXiv preprint arXiv:1711.11249, 2017.
+- Jason Poulos, Rafael Valle. [Attention networks for image-to-text](https://arxiv.org/abs/1712.04046). arXiv preprint arXiv:1712.04046, 2017.
 - Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/pdf/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.[[code](https://github.com/Yuliang-Liu/Curve-Text-Detector)]
 - Bartz C, Yang H, Meinel C. [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://arxiv.org/pdf/1712.05404)[J]. arXiv preprint arXiv:1712.05404, 2017.
 - Kang C, Kim G, Yoo S I. [Detection and Recognition of Text Embedded in Online Images via Neural Context Models](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)[C]//AAAI. 2017: 4103-4110.[[code](https://github.com/cmkang/CTSN)]
@@ -181,5 +186,6 @@ collecting from：
 - Seunghoon Hong, Dingdong Yang, Jongwook Choi, Honglak Lee. [Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis](https://arxiv.org/abs/1801.05091v1). arXiv preprint arXiv:1801.05091, 2018.
 - Yash Patel, Michal Bušta, Jiri Matas. [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919v1). arXiv preprint arXiv:1801.09919, 2018.
 - Yixing Zhu, Jun Du. [Sliding Line Point Regression for Shape Robust Scene Text Detection](https://arxiv.org/abs/1801.09969v1). arXiv preprint arXiv:1801.09969, 2018.
+- Congzheng Song, Vitaly Shmatikov. [Fooling OCR Systems with Adversarial Text Images](https://arxiv.org/abs/1802.05385v1). arXiv preprint arXiv:1802.05385, 2018.
 - Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai. [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948v2). arXiv preprint arXiv:1802.08948, 2018.
 
