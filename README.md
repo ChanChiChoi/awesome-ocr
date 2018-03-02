@@ -103,6 +103,8 @@ collecting from：
 - Tian S, Pei W Y, Zuo Z Y, et al. [Scene Text Detection in Video by Learning Locally and Globally](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)[C]//IJCAI. 2016: 2647-2653.
 - Shi B, Wang X, Lyu P, et al. [Robust scene text recognition with automatic rectification](https://arxiv.org/abs/1603.03915)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4168-4176.
 - Shuye Zhang, Mude Lin, Tianshui Chen, Lianwen Jin, Liang Lin. [Character Proposal Network for Robust Text Extraction](https://arxiv.org/abs/1602.04348). arXiv preprint arXiv:1602.04348, 2016.
+- Lluis Gomez, Dimosthenis Karatzas. [A fine-grained approach to scene text script identification](https://arxiv.org/abs/1602.07475). arXiv preprint arXiv:1602.07475, 2016.
+- Lluis Gomez, Anguelos Nicolaou, Dimosthenis Karatzas. [Improving patch-based scene text script identification with ensembles of conjoined networks](https://arxiv.org/abs/1602.07480). arXiv preprint arXiv:1602.07480, 2016.
 - He T, Huang W, Qiao Y, et al. [Accurate text localization in natural image with cascaded convolutional text network](https://arxiv.org/pdf/1603.09423)[J]. arXiv preprint arXiv:1603.09423, 2016.
 - Hafemann L G, Sabourin R, Oliveira L S. [Writer-independent feature learning for offline signature verification using deep convolutional neural networks](https://arxiv.org/pdf/1604.00974)[C]//Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE, 2016: 2576-2583.
 - Ren X, Chen K, Sun J. [A CNN Based Scene Chinese Text Recognition Algorithm With Synthetic Data Engine](https://arxiv.org/abs/1604.01891)[J]. arXiv preprint arXiv:1604.01891, 2016.
