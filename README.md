@@ -65,6 +65,7 @@ collecting from：
 
 - Ye Q, Doermann D. Text detection and recognition in imagery: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 37(7): 1480-1500.
 - Jaderberg M. Deep learning for text spotting[D]. University of Oxford, 2015.
+- Ren X, Chen K, Yang X, et al. A new unsupervised convolutional neural network model for Chinese scene text detection[C]//Signal and Information Processing (ChinaSIP), 2015 IEEE China Summit and International Conference on. IEEE, 2015: 428-432.
 - Wang Z, Yang J, Jin H, et al. [Deepfont: Identify your font from an image](https://arxiv.org/pdf/1507.03196)[C]//Proceedings of the 23rd ACM international conference on Multimedia. ACM, 2015: 451-459.
 - Gomez L, Karatzas D. [Object proposals for text extraction in the wild](https://arxiv.org/pdf/1509.02317)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 206-210.[[code]( https://github.com/lluisgomez/TextProposals)]
 - Shi B, Yao C, Zhang C, et al. [Automatic script identification in the wild](https://arxiv.org/pdf/1505.02982)[C]//Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015: 531-535.
