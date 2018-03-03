@@ -212,4 +212,4 @@ collecting from：
 - Tobias Grüning, Gundram Leifert, Tobias Strauß, Roger Labahn. [A Two-Stage Method for Text Line Detection in Historical Documents](https://arxiv.org/abs/1802.03345). arXiv preprint arXiv:1802.03345, 2018.
 - Congzheng Song, Vitaly Shmatikov. [Fooling OCR Systems with Adversarial Text Images](https://arxiv.org/abs/1802.05385v1). arXiv preprint arXiv:1802.05385, 2018.
 - Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai. [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948v2). arXiv preprint arXiv:1802.08948, 2018.
-- Tai-Ling Yuan, Zhe Zhu, Kun Xu, Cheng-Jun Li, Shi-Min Hu. [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085). arXiv preprint arXiv:1802.00085, 2018. 
+- Tai-Ling Yuan, Zhe Zhu, Kun Xu, Cheng-Jun Li, Shi-Min Hu. [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085). arXiv preprint arXiv:1803.00085, 2018. 
