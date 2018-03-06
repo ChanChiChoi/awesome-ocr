@@ -222,16 +222,16 @@ I will update the papers and datasets links all the time.
 
 
 ## Datasets
-- [`2017 COCO-Text`]  
-  [`2017 DeTEXT`]  
-  [`2017 DOST`]  
-  [`2017 FSNS`]  
-  [`2017 MLT`]  
-  [`2017 IEHHR`]    
-  [`2011-2015 Born-DIgitalImage`]  
-  [`2013-2015 Focused Scene Text`]   
-  [`2013-2015 Text in Videos`]  
-  [`2015 Incidental Scene Text`](http://rrc.cvc.uab.es/)
+- [`2017 COCO-Text`](http://rrc.cvc.uab.es/?ch=5&com=introduction)  
+  [`2017 DeTEXT`](http://rrc.cvc.uab.es/?ch=9&com=introduction)  
+  [`2017 DOST`](http://rrc.cvc.uab.es/?ch=7&com=introduction)  
+  [`2017 FSNS`](http://rrc.cvc.uab.es/?ch=6&com=introduction)  
+  [`2017 MLT`](http://rrc.cvc.uab.es/?ch=8&com=introduction)  
+  [`2017 IEHHR`](http://rrc.cvc.uab.es/?ch=10&com=introduction)    
+  [`2011-2015 Born-DIgitalImage`](http://rrc.cvc.uab.es/?ch=1&com=introduction)  
+  [`2013-2015 Focused Scene Text`](http://rrc.cvc.uab.es/?ch=2&com=introduction)   
+  [`2013-2015 Text in Videos`](http://rrc.cvc.uab.es/?ch=3&com=introduction)  
+  [`2015 Incidental Scene Text`](http://rrc.cvc.uab.es/?ch=4&com=introduction)
 
 
 - [`Chinese Text in the Wild`](https://ctwdataset.github.io/)    `2017`    
@@ -251,6 +251,9 @@ I will update the papers and datasets links all the time.
   - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
   - Task: text location and recognition
   - [`COCO-Text API`](https://github.com/andreasveit/coco-text)
+
+- [`USTB-SV1k`](http://prir.ustb.edu.cn/TexStar/MOMV-text-detection/)   `2014`
+  - 1000 (500 for training and 500 for testing) street view (patch) images from 6 USA cities
 
 - [`Synthetic Word Dataset (Oxford, VGG)`](http://www.robots.ox.ac.uk/~vgg/data/text/)   `2014`
   - 9 million images covering 90k English words
