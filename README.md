@@ -222,6 +222,18 @@ I will update the papers and datasets links all the time.
 
 
 ## Datasets
+- [`2017 COCO-Text  
+2017 DeTEXT  
+2017 DOST  
+2017 FSNS  
+2017 MLT  
+2017 IEHHR  
+2011-2015 Born-DIgitalImage  
+2013-2015 Focused Scene Text  
+2013-2015 Text in Videos  
+2015 Incidental Scene Text`](http://rrc.cvc.uab.es/)
+
+
 - [`Chinese Text in the Wild`](https://ctwdataset.github.io/)    `2017`    
   - 32,285 high resolution images, 1,018,402 character instances, 3,850 character categories, 6 kinds of attributes
 
