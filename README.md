@@ -1,6 +1,6 @@
 # awesome-ocr
 
-collecting from：
+some papers and datasets links collected from：
 
 - [1] [wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)
 - [2] [kba/awesome-ocr](https://github.com/kba/awesome-ocr)
@@ -10,6 +10,8 @@ collecting from：
 - [6] [OCR material](http://blog.csdn.net/haluoluo211/article/details/54345026)
 - [7] [handong1587](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
 - [8] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
+
+I will update the papers and datasets links all the time.
 
 ---
 ### 2009
@@ -219,6 +221,12 @@ collecting from：
 
 
 ## Datasets
+- [`Chinese Text in the Wild`]    `2017`    
+  - 32,285 high resolution images, 1,018,402 character instances, 3,850 character categories, 6 kinds of attributes
+
+- [`Total-Text`](https://github.com/cs-chan/Total-Text-Dataset)  `2017`   
+  - 1555 images,11459 text instances, includes curved tex
+  
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
   - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
   - Task: text location and recognition
