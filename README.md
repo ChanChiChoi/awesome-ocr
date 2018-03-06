@@ -227,6 +227,10 @@ I will update the papers and datasets links all the time.
 - [`Total-Text`](https://github.com/cs-chan/Total-Text-Dataset)  `2017`   
   - 1555 images,11459 text instances, includes curved tex
   
+- [`SynthText in the Wild Dataset`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)   `2016`
+  -  800 thousand images, 8 million synthetic word instances. 
+  -  Each text instance is annotated with its text-string, word-level and character-level bounding-boxes.
+  
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
   - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
   - Task: text location and recognition
