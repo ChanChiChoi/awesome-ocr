@@ -10,6 +10,7 @@ some papers and datasets links collected from：
 - [6] [OCR material](http://blog.csdn.net/haluoluo211/article/details/54345026)
 - [7] [handong1587](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
 - [8] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
+- [9] [文字检测与识别资料整理](https://www.cnblogs.com/lillylin/p/6893500.html)
 
 I will update the papers and datasets links all the time.
 
@@ -227,6 +228,9 @@ I will update the papers and datasets links all the time.
 - [`Total-Text`](https://github.com/cs-chan/Total-Text-Dataset)  `2017`   
   - 1555 images,11459 text instances, includes curved tex
   
+- [`SCUT_FORU_DB_Release`](https://github.com/HCIILAB/SCUT_FORU_DB_Release)  `2016`
+  -  FORU contains two parts, which are Chinese2k and English2k dataset, respectively.
+  
 - [`SynthText in the Wild Dataset`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)   `2016`
   -  800 thousand images, 8 million synthetic word instances. 
   -  Each text instance is annotated with its text-string, word-level and character-level bounding-boxes.
@@ -256,6 +260,9 @@ I will update the papers and datasets links all the time.
   - 500 natural images(resolutions of the images vary from 1296x864 to 1920x1280)
   - Chinese, English or mixture of both
   - Task: text detection
+
+- [`OSTD`](http://media-lab.ccny.cuny.edu/wordpress/cyi/project_scenetextdetection.html)  `2011`
+  - ???
 
 - [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
   - 350 high resolution images (average size 1260 × 860) (100 images for training and 250 images for testing)
