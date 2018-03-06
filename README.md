@@ -221,7 +221,7 @@ I will update the papers and datasets links all the time.
 
 
 ## Datasets
-- [`Chinese Text in the Wild`]    `2017`    
+- [`Chinese Text in the Wild`](https://ctwdataset.github.io/)    `2017`    
   - 32,285 high resolution images, 1,018,402 character instances, 3,850 character categories, 6 kinds of attributes
 
 - [`Total-Text`](https://github.com/cs-chan/Total-Text-Dataset)  `2017`   
