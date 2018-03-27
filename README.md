@@ -12,7 +12,7 @@ some papers and datasets links collected from：
 - [8] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 - [9] [文字检测与识别资料整理](https://www.cnblogs.com/lillylin/p/6893500.html)
 
-I will update the papers and datasets links all the time.
+you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome ocr models on the "Ranking Table" of each competition's result page
 
 ---
 ### 2009
