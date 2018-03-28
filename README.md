@@ -220,8 +220,8 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 
 ---
 
-
 ## Datasets
+
 - [`2017 COCO-Text`](http://rrc.cvc.uab.es/?ch=5&com=introduction)  
   [`2017 DeTEXT`](http://rrc.cvc.uab.es/?ch=9&com=introduction)  
   [`2017 DOST`](http://rrc.cvc.uab.es/?ch=7&com=introduction)  
