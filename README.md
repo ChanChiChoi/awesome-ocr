@@ -233,6 +233,9 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
   [`2013-2015 Text in Videos`](http://rrc.cvc.uab.es/?ch=3&com=introduction)  
   [`2015 Incidental Scene Text`](http://rrc.cvc.uab.es/?ch=4&com=introduction)
 
+- [ICDAR Chinese](http://www.icdar2017chinese.site:5080/dataset/)    `2017`
+  - more than 12,000 images. Most of the images are collected in the wild by phone cameras.
+  - Task: Chinese Text in the Wild. 
 
 - [`Chinese Text in the Wild`](https://ctwdataset.github.io/)    `2017`    
   - 32,285 high resolution images, 1,018,402 character instances, 3,850 character categories, 6 kinds of attributes
