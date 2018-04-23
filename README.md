@@ -222,6 +222,11 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 
 ## Datasets
 
+there are three websites that have the dataset list of some different data type:
+1 - [www.iapr-tc11.org](http://www.iapr-tc11.org/mediawiki/index.php?title=Datasets_List)
+2 - [tc11.cvc.uab.es](http://tc11.cvc.uab.es/datasets/type/)
+3 - [rrc.cvc.uab.es](http://rrc.cvc.uab.es)
+
 - [`2017 COCO-Text`](http://rrc.cvc.uab.es/?ch=5&com=introduction)  
   [`2017 DeTEXT`](http://rrc.cvc.uab.es/?ch=9&com=introduction)  
   [`2017 DOST`](http://rrc.cvc.uab.es/?ch=7&com=introduction)  
