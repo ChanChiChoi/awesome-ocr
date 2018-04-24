@@ -21,7 +21,8 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 
 ### 2010 
 
-- Epshtein B, Ofek E, Wexler Y. [Detecting text in natural scenes with stroke width transform](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010: 2963-2970.[[code](https://github.com/aperrau/DetectText)]
+- Epshtein B, Ofek E, Wexler Y. [Detecting text in natural scenes with stroke width transform](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010: 2963-2970.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/aperrau/DetectText)]
 
 ### 2011
 
