@@ -311,6 +311,9 @@ there are three websites that have the dataset list of some different data type:
 
 - [`OSTD`](http://media-lab.ccny.cuny.edu/wordpress/cyi/project_scenetextdetection.html)  `2011`
   - cannot find the downloadlink
+  
+- [`Traffice Guide Panel Text Dataset,TGPT`](http://media-lab.ccny.cuny.edu/wordpress/datecode/)   `2016`
+  - 3841 high-resolution individual images, 2315 containing traffic guide panel level annotations (1911 for training and 404 for testing, and all the testing images are manually labeled with ground truth tight text region bounding boxes), 1526 containing no traffic signs}.
 
 - [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
   - 350 high resolution images (average size 1260 × 860) (100 images for training and 250 images for testing)
