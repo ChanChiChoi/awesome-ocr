@@ -272,6 +272,7 @@ there are three websites that have the dataset list of some different data type:
 
 - [`Total-Text`](https://github.com/cs-chan/Total-Text-Dataset)  `2017`   
   - 1555 images,11459 text instances, includes curved tex
+  - have no groundtruth, only images
   
 - [`SCUT_FORU_DB_Release`](https://github.com/HCIILAB/SCUT_FORU_DB_Release)  `2016`
   -  FORU contains two parts, which are Chinese2k and English2k dataset, respectively.
@@ -310,7 +311,7 @@ there are three websites that have the dataset list of some different data type:
   - Task: text detection
 
 - [`OSTD`](http://media-lab.ccny.cuny.edu/wordpress/cyi/project_scenetextdetection.html)  `2011`
-  - ???
+  - cannot find the downloadlink
 
 - [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
   - 350 high resolution images (average size 1260 × 860) (100 images for training and 250 images for testing)
