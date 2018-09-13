@@ -244,6 +244,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Liao M, Zhu Z, Shi B, et al. [Rotation-Sensitive Regression for Oriented Scene Text Detection](https://arxiv.org/pdf/1803.05265). [C]arXiv preprint arXiv:1803.05265, 2018. 
 - Carbonell M, Villegas M, Fornés A, et al. [Joint Recognition of Handwritten Text and Named Entities with a Neural End-to-end Model](https://arxiv.org/pdf/1803.06252)[J]. arXiv preprint arXiv:1803.06252, 2018.
 - Goswami T, Barad Z, Desai P, et al. [Text Detection and Recognition in images: A survey](https://arxiv.org/pdf/1803.07278)[J]. arXiv preprint arXiv:1803.07278, 2018.
+- José Carlos Aradillas, Juan José Murillo-Fuentes, Pablo M. Olmos. [Boosting Handwriting Text Recognition in Small Databases with Transfer Learning](https://arxiv.org/pdf/1804.01527)[J]. arXiv preprint arXiv: 1803.01527, 2018.
 - Linjie Deng, Yanxiang Gong, Yi Lin, Jingwen Shuai, Xiaoguang Tu, Yufei Zhang, Zheng Ma, Mei Xie. [Detecting Multi-Oriented Text with Corner-based Region Proposals](https://arxiv.org/pdf/1804.02690.pdf)[J]. arXiv preprint arXiv:1804.02690, 2018.
 - Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri. [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/pdf/1804.06254.pdf)[J]. arXiv preprint arXiv:1804.06254, 2018.
 - Dafang He, Yeqing Li, Alexander Gorban, Derrall Heath, Julian Ibarz, Qian Yu, Daniel Kifer, C. Lee Giles. [Guided Attention for Large Scale Scene Text Verification](https://arxiv.org/pdf/1804.08588.pdf)[J]. arXiv preprint arXiv:1804.08588, 2018.
