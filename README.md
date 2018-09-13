@@ -241,7 +241,9 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Congzheng Song, Vitaly Shmatikov. [Fooling OCR Systems with Adversarial Text Images](https://arxiv.org/abs/1802.05385v1). arXiv preprint arXiv:1802.05385, 2018.
 - Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai. [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948v2). arXiv preprint arXiv:1802.08948, 2018.
 - Tai-Ling Yuan, Zhe Zhu, Kun Xu, Cheng-Jun Li, Shi-Min Hu. [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085). arXiv preprint arXiv:1803.00085, 2018. 
-
+- Liao M, Zhu Z, Shi B, et al. [Rotation-Sensitive Regression for Oriented Scene Text Detection](https://arxiv.org/abs/1803.05265). [C]arXiv preprint arXiv:1803.05265, 2018. 
+- Carbonell M, Villegas M, Fornés A, et al. [Joint Recognition of Handwritten Text and Named Entities with a Neural End-to-end Model](https://arxiv.org/abs/1803.06252)[J]. arXiv preprint arXiv:1803.06252, 2018.
+- Goswami T, Barad Z, Desai P, et al. [Text Detection and Recognition in images: A survey](https://arxiv.org/abs/1803.07278)[J]. arXiv preprint arXiv:1803.07278, 2018.
 
 ---
 
