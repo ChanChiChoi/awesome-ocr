@@ -244,20 +244,20 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Liao M, Zhu Z, Shi B, et al. [Rotation-Sensitive Regression for Oriented Scene Text Detection](https://arxiv.org/pdf/1803.05265). [C]arXiv preprint arXiv:1803.05265, 2018. 
 - Carbonell M, Villegas M, Fornés A, et al. [Joint Recognition of Handwritten Text and Named Entities with a Neural End-to-end Model](https://arxiv.org/pdf/1803.06252)[J]. arXiv preprint arXiv:1803.06252, 2018.
 - Goswami T, Barad Z, Desai P, et al. [Text Detection and Recognition in images: A survey](https://arxiv.org/pdf/1803.07278)[J]. arXiv preprint arXiv:1803.07278, 2018.
-- Linjie Deng, Yanxiang Gong, Yi Lin, Jingwen Shuai, Xiaoguang Tu, Yufei Zhang, Zheng Ma, Mei Xie. [Detecting Multi-Oriented Text with Corner-based Region Proposals](https://arxiv.org/pdf/1804.02690.pdf). arXiv preprint arXiv:1804.02690, 2018.
-- Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri. [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/pdf/1804.06254.pdf). arXiv preprint arXiv:1804.06254, 2018.
-- Dafang He, Yeqing Li, Alexander Gorban, Derrall Heath, Julian Ibarz, Qian Yu, Daniel Kifer, C. Lee Giles. [Guided Attention for Large Scale Scene Text Verification](https://arxiv.org/pdf/1804.08588.pdf). arXiv preprint arXiv:1804.08588, 2018.
-- Zhuoyao Zhong, Lei Sun, Qiang Huo. [An Anchor-Free Region Proposal Network for Faster R-CNN based Text  Detection Approaches](https://arxiv.org/pdf/1804.09003.pdf). arXiv preprint arXiv:1804.09003, 2018.
-- Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin, Wei Chu. [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for  Multi-Oriented Scene Text Detection](https://arxiv.org/pdf/1805.01167.pdf). arXiv preprint arXiv:1805.01167, 2018.
-- Francisco Cruz, Oriol Ramos Terrades. [A probabilistic framework for handwritten text line segmentation](https://arxiv.org/pdf/1805.02536.pdf). arXiv preprint arXiv:1805.02536, 2018.
-- Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou. [Edit Probability for Scene Text Recognition](https://arxiv.org/pdf/1805.03384.pdf). arXiv preprint arXiv:1805.03384, 2018.
-- Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang. [Boosting up Scene Text Detectors with Guided CNN](https://arxiv.org/pdf/1805.04132.pdf). arXiv preprint arXiv:1805.04132, 2018.
-- Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh. [Learning Markov Clustering Networks for Scene Text Detection](https://arxiv.org/pdf/1805.08365.pdf). arXiv preprint arXiv:1805.08365, 2018.
-- Yi-Chao Wu, Fei Yin, Xu-Yao Zhang, Li Liu, Cheng-Lin Liu. [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1806.00578.pdf). arXiv preprint arXiv:1806.00578, 2018.
-- Fenfen Sheng, Zhineng Chen, Bo Xu. [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text  Recognition](https://arxiv.org/pdf/1806.00926.pdf). arXiv preprint arXiv:1806.00926, 2018.
-- Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang. [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1806.02559.pdf). arXiv preprint arXiv:1806.02559, 2018.
-- Sauradip Nag, Pallab Kumar Ganguly, Sumit Roy, Sourab Jha, Krishna Bose, Abhishek Jha, Kousik Dasgupta. [Offline Extraction of Indic Regional Language from Natural Scene Image  using Text Segmentation and Deep Convolutional Sequence](https://arxiv.org/pdf/1806.06208.pdf). arXiv preprint arXiv:1806.06208, 2018.
-- Arka Ujjal dey, Suman K. Ghosh, Ernest Valveny. [Don't only Feel Read: Using Scene text to understand advertisements](https://arxiv.org/pdf/1806.08279.pdf). arXiv preprint arXiv:1806.08279, 2018.
+- Linjie Deng, Yanxiang Gong, Yi Lin, Jingwen Shuai, Xiaoguang Tu, Yufei Zhang, Zheng Ma, Mei Xie. [Detecting Multi-Oriented Text with Corner-based Region Proposals](https://arxiv.org/pdf/1804.02690.pdf)[J]. arXiv preprint arXiv:1804.02690, 2018.
+- Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri. [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/pdf/1804.06254.pdf)[J]. arXiv preprint arXiv:1804.06254, 2018.
+- Dafang He, Yeqing Li, Alexander Gorban, Derrall Heath, Julian Ibarz, Qian Yu, Daniel Kifer, C. Lee Giles. [Guided Attention for Large Scale Scene Text Verification](https://arxiv.org/pdf/1804.08588.pdf)[J]. arXiv preprint arXiv:1804.08588, 2018.
+- Zhuoyao Zhong, Lei Sun, Qiang Huo. [An Anchor-Free Region Proposal Network for Faster R-CNN based Text  Detection Approaches](https://arxiv.org/pdf/1804.09003.pdf)[J]. arXiv preprint arXiv:1804.09003, 2018.
+- Qiangpeng Yang, Mengli Cheng, Wenmeng Zhou, Yan Chen, Minghui Qiu, Wei Lin, Wei Chu. [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for  Multi-Oriented Scene Text Detection](https://arxiv.org/pdf/1805.01167.pdf)[J]. arXiv preprint arXiv:1805.01167, 2018.
+- Francisco Cruz, Oriol Ramos Terrades. [A probabilistic framework for handwritten text line segmentation](https://arxiv.org/pdf/1805.02536.pdf)[J]. arXiv preprint arXiv:1805.02536, 2018.
+- Fan Bai, Zhanzhan Cheng, Yi Niu, Shiliang Pu, Shuigeng Zhou. [Edit Probability for Scene Text Recognition](https://arxiv.org/pdf/1805.03384.pdf)[J]. arXiv preprint arXiv:1805.03384, 2018.
+- Xiaoyu Yue, Zhanghui Kuang, Zhaoyang Zhang, Zhenfang Chen, Pan He, Yu Qiao, Wei Zhang. [Boosting up Scene Text Detectors with Guided CNN](https://arxiv.org/pdf/1805.04132.pdf)[J]. arXiv preprint arXiv:1805.04132, 2018.
+- Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh. [Learning Markov Clustering Networks for Scene Text Detection](https://arxiv.org/pdf/1805.08365.pdf)[J]. arXiv preprint arXiv:1805.08365, 2018.
+- Yi-Chao Wu, Fei Yin, Xu-Yao Zhang, Li Liu, Cheng-Lin Liu. [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1806.00578.pdf)[J]. arXiv preprint arXiv:1806.00578, 2018.
+- Fenfen Sheng, Zhineng Chen, Bo Xu. [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text  Recognition](https://arxiv.org/pdf/1806.00926.pdf)[J]. arXiv preprint arXiv:1806.00926, 2018.
+- Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang. [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1806.02559.pdf)[J]. arXiv preprint arXiv:1806.02559, 2018.
+- Sauradip Nag, Pallab Kumar Ganguly, Sumit Roy, Sourab Jha, Krishna Bose, Abhishek Jha, Kousik Dasgupta. [Offline Extraction of Indic Regional Language from Natural Scene Image  using Text Segmentation and Deep Convolutional Sequence](https://arxiv.org/pdf/1806.06208.pdf)[J]. arXiv preprint arXiv:1806.06208, 2018.
+- Arka Ujjal dey, Suman K. Ghosh, Ernest Valveny. [Don't only Feel Read: Using Scene text to understand advertisements](https://arxiv.org/pdf/1806.08279.pdf)[J]. arXiv preprint arXiv:1806.08279, 2018.
 
 ---
 
