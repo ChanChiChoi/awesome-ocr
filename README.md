@@ -266,6 +266,9 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Xiaoyong Yuan, Pan He, Xiaolin Andy Li. [Adaptive Adversarial Attack on Scene Text Recognition](https://arxiv.org/abs/1807.03326)[J]. arXiv preprint arXiv:1807.03326, 2018.
 - Chuhui Xue, Shijian Lu, Fangneng Zhan. [Accurate Scene Text Detection through Border Semantics Awareness and  Bootstrapping](https://arxiv.org/abs/1807.03547)[J]. arXiv preprint arXiv:1807.03547, 2018.
 - Arindam Chowdhury, Lovekesh Vig. [An Efficient End-to-End Neural Model for Handwritten Text Recognition](https://arxiv.org/abs/1807.07965)[J]. arXiv preprint arXiv:1807.07965, 2018.
+- Yuting Gao, Zheng Huang, Yuchen Dai. [Double Supervised Network with Attention Mechanism for Scene Text  Recognition](https://arxiv.org/abs/1808.00677)[J]. arXiv preprint arXiv:1808.00677, 2018.  
+- Wenchao Wang, Jun Du, Zi-Rui Wang. [Parsimonious HMMs for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1808.04138)[J]. arXiv preprint arXiv:1808.04138, 2018.   
+- Lluís Gómez, Andrés Mafla, Marçal Rusiñol, DimosthenisKaratzas. [Single Shot Scene Text Retrieval](https://arxiv.org/abs/1808.09044)[J]. arXiv preprint arXiv:1808.09044, 2018.         
 
 ---
 
