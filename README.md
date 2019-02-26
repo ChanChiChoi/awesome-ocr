@@ -11,6 +11,7 @@ some papers and datasets links collected from：
 - [7] [handong1587](https://handong1587.github.io/deep_learning/2015/10/09/ocr.html)
 - [8] [hs105/Deep-Learning-for-OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 - [9] [文字检测与识别资料整理](https://www.cnblogs.com/lillylin/p/6893500.html)
+- [10] [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 
 you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome ocr models on the "Ranking Table" of each competition's result page
 
