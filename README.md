@@ -270,8 +270,43 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Yuting Gao, Zheng Huang, Yuchen Dai. [Double Supervised Network with Attention Mechanism for Scene Text  Recognition](https://arxiv.org/abs/1808.00677)[J]. arXiv preprint arXiv:1808.00677, 2018.  
 - Wenchao Wang, Jun Du, Zi-Rui Wang. [Parsimonious HMMs for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1808.04138)[J]. arXiv preprint arXiv:1808.04138, 2018.   
 - Lluís Gómez, Andrés Mafla, Marçal Rusiñol, DimosthenisKaratzas. [Single Shot Scene Text Retrieval](https://arxiv.org/abs/1808.09044)[J]. arXiv preprint arXiv:1808.09044, 2018.         
+- Dafang He, Xiao Yang, Daniel Kifer, C.Lee Giles .[TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade](https://arxiv.org/pdf/1809.03050) .[J] arXiv preprint arXiv:1809.03050.
+- Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai .[Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508) .[J] arXiv preprint arXiv:1809.06508.
+- Mayank Gupta, Abhinav Kumar, Sriganesh Madhvanath .[Parametric Synthesis of Text on Stylized Backgrounds using PGGANs](https://arxiv.org/pdf/1809.08488) .[J] arXiv preprint arXiv:1809.08488.
+- Saad Bin Ahmed, Saeeda Naz, Muhammad Imran Razzak, Rubiyah Yusof .[Cursive Scene Text Analysis by Deep Convolutional Linear Pyramids](https://arxiv.org/pdf/1809.10792) .[J] arXiv preprint arXiv:1809.10792.
+- Zichuan Liu, Guosheng Lin, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang .[Correlation Propagation Networks for Scene Text Detection](https://arxiv.org/pdf/1810.00304) .[J] arXiv preprint arXiv:1810.00304.
+- Ahmed Sabir, Francesc Moreno-Noguer, Lluís Padró .[Visual Semantic Re-ranker for Text Spotting](https://arxiv.org/pdf/1810.09776) .[J] arXiv preprint arXiv:1810.09776.
+- Ahmed Sabir, Francesc Moreno-Noguer, Lluís Padró .[Visual Re-ranking with Natural Language Understanding for Text Spotting](https://arxiv.org/pdf/1810.12738) .[J] arXiv preprint arXiv:1810.12738.
+- Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang .[Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/pdf/1811.00751) .[J] arXiv preprint arXiv:1811.00751.
+- Shangbang Long, Xin He, Cong Ya .[Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/pdf/1811.04256) .[J] arXiv preprint arXiv:1811.04256.
+- Jing Huang, Viswanath Sivakumar, Mher Mnatsakanyan, Guan Pang .[Improving Rotated Text Detection with Rotation Region Proposal Networks](https://arxiv.org/pdf/1811.07031) .[J] arXiv preprint arXiv:1811.07031.
+- Yuan Li, Yuanjie Yu, Zefeng Li, Yangkun Lin, Meifang Xu, Jiwei Li, Xi Zhou .[Pixel-Anchor: A Fast Oriented Scene Text Detector with Combined Networks](https://arxiv.org/pdf/1811.07432) .[J] arXiv preprint arXiv:1811.07432.
+- Wanchen Sui, Qing Zhang, Jun Yang, Wei Chu .[A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/pdf/1811.08611) .[J] arXiv preprint arXiv:1811.08611.
+- Zhida Huang, Zhuoyao Zhong, Lei Sun, Qiang Huo .[Mask R-CNN with Pyramid Attention Network for Scene Text Detection](https://arxiv.org/pdf/1811.09058) .[J] arXiv preprint arXiv:1811.09058.
+- Dinh NguyenVan, Shijian Lu, Shangxuan Tian, Nizar Ouarti, Mounir Mokhtari .[A pooling based scene text proposal technique for scene text reading in the wild](https://arxiv.org/pdf/1811.10003) .[J] arXiv preprint arXiv:1811.10003.
+- Hanh T. M. Tran, Tien Ho-Phuoc .[Deep Laplacian Pyramid Network for Text Images Super-Resolution](https://arxiv.org/pdf/1811.10449) .[J] arXiv preprint arXiv:1811.10449.
+- Yixing Zhu, Jun Du .[TextMountain: Accurate Scene Text Detection via Instance Segmentation](https://arxiv.org/pdf/1811.12786) .[J] arXiv preprint arXiv:1811.12786.
+- Shuaitao Zhang, Yuliang Liu, Lianwen Jin, Yaoxiong Huang, Songxuan Lai .[EnsNet: Ensconce Text in the Wild](https://arxiv.org/pdf/1812.00723) .[J] arXiv preprint arXiv:1812.00723.
+- Yongchao Xu, Yukang Wang, Wei Zhou, Yongpan Wang, Zhibo Yang, Xiang Bai .[TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/pdf/1812.01393) .[J] arXiv preprint arXiv:1812.01393.
+- Najoua Rahal, Maroua Tounsi, Adel M. Alimi .[Auto-Encoder-BoF/HMM System for Arabic Text Recognition](https://arxiv.org/pdf/1812.03680) .[J] arXiv preprint arXiv:1812.03680.
+- 【Dataset】Masakazu Iwamura .[Advances of Scene Text Datasets](https://arxiv.org/pdf/1812.05219) .[J] arXiv preprint arXiv:1812.05219.
+- Fangneng Zhan, Shijian Lu .[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/pdf/1812.05824) .[J] arXiv preprint arXiv:1812.05824.
+- Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo .[TET-GAN: Text Effects Transfer via Stylization and Destylization](https://arxiv.org/pdf/1812.06384) .[J] arXiv preprint arXiv:1812.06384.
+- Chankyu Choi, Youngmin Yoon, Junsu Lee, Junseok Kim .[Simultaneous Recognition of Horizontal and Vertical Text in Natural Images](https://arxiv.org/pdf/1812.07059) .[J] arXiv preprint arXiv:1812.07059.
+- Yunze Gao, Yingying Chen, Jinqiao Wang, Zhen Lei, Xiao-Yu Zhang, Hanqing Lu .[Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/pdf/1812.07145) .[J] arXiv preprint arXiv:1812.07145.
+- Zi-Rui Wang, Jun Du, Jia-Ming Wang .[Writer-Aware CNN for Parsimonious HMM-Based Offline Handwritten Chinese Text Recognition](https://arxiv.org/pdf/1812.09809) .[J] arXiv preprint arXiv:1812.09809.
+- Yipeng Sun, Chengquan Zhang, Zuming Huang, Jiaming Liu, Junyu Han, Errui Ding .[TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/pdf/1812.09900) .[J] arXiv preprint arXiv:1812.09900.
+- Mohamed Yousef, Khaled F. Hussain, Usama S. Mohammed .[Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/pdf/1812.11894) .[J] arXiv preprint arXiv:1812.11894.
 
 ---
+### 2019
+- Jiaming Liu, Chengquan Zhang, Yipeng Sun, Junyu Han, Errui Ding .[Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/pdf/1901.00363) .[J] arXiv preprint arXiv:1901.00363.
+- Chuhui Xue, Shijian Lu, Wei Zhang .[MSR: Multi-Scale Shape Regression for Scene Text Detection](https://arxiv.org/pdf/1901.02596) .[J] arXiv preprint arXiv:1901.02596.
+- Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.
+- Wei Liu, Chaofeng Chen, Kwan-Yee K. Wong .[SAFE: Scale Aware Feature Encoder for Scene Text Recognition](https://arxiv.org/pdf/1901.05770) .[J] arXiv preprint arXiv:1901.05770.
+- Yanxiang Gong, Linjie Deng, Zheng Ma, Mei Xie .[Generating Text Sequence Images for Recognition](https://arxiv.org/pdf/1901.06782) .[J] arXiv preprint arXiv:1901.06782.
+- Fangneng Zhan, Hongyuan Zhu, Shijian Lu .[Scene Text Synthesis for Efficient and Effective Deep Network Training](https://arxiv.org/pdf/1901.09193) .[J] arXiv preprint arXiv:1901.09193.
+- Amarnath R, P Nagabhushan .[Text line Segmentation in Compressed Representation of Handwritten Document using Tunneling Algorithm](https://arxiv.org/pdf/1901.11477) .[J] arXiv preprint arXiv:1901.11477.
 
 ## Datasets
 
