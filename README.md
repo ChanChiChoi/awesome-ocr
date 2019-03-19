@@ -301,8 +301,8 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 ---
 ### 2019
 - Jiaming Liu, Chengquan Zhang, Yipeng Sun, Junyu Han, Errui Ding .[Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/pdf/1901.00363) .[J] arXiv preprint arXiv:1901.00363.
-- 【MORAN】Chuhui Xue, Shijian Lu, Wei Zhang .[MSR: Multi-Scale Shape Regression for Scene Text Detection](https://arxiv.org/pdf/1901.02596) .[J] arXiv preprint arXiv:1901.02596.<br>[code: [Canjie-Luo/MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2)]
-- Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.
+- Chuhui Xue, Shijian Lu, Wei Zhang .[MSR: Multi-Scale Shape Regression for Scene Text Detection](https://arxiv.org/pdf/1901.02596) .[J] arXiv preprint arXiv:1901.02596.
+- 【MORAN】Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.<br>[code: [Canjie-Luo/MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2)]
 - Wei Liu, Chaofeng Chen, Kwan-Yee K. Wong .[SAFE: Scale Aware Feature Encoder for Scene Text Recognition](https://arxiv.org/pdf/1901.05770) .[J] arXiv preprint arXiv:1901.05770.
 - Yanxiang Gong, Linjie Deng, Zheng Ma, Mei Xie .[Generating Text Sequence Images for Recognition](https://arxiv.org/pdf/1901.06782) .[J] arXiv preprint arXiv:1901.06782.
 - Fangneng Zhan, Hongyuan Zhu, Shijian Lu .[Scene Text Synthesis for Efficient and Effective Deep Network Training](https://arxiv.org/pdf/1901.09193) .[J] arXiv preprint arXiv:1901.09193.
