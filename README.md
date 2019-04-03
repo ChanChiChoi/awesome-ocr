@@ -307,6 +307,17 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Yanxiang Gong, Linjie Deng, Zheng Ma, Mei Xie .[Generating Text Sequence Images for Recognition](https://arxiv.org/pdf/1901.06782) .[J] arXiv preprint arXiv:1901.06782.
 - Fangneng Zhan, Hongyuan Zhu, Shijian Lu .[Scene Text Synthesis for Efficient and Effective Deep Network Training](https://arxiv.org/pdf/1901.09193) .[J] arXiv preprint arXiv:1901.09193.
 - Amarnath R, P Nagabhushan .[Text line Segmentation in Compressed Representation of Handwritten Document using Tunneling Algorithm](https://arxiv.org/pdf/1901.11477) .[J] arXiv preprint arXiv:1901.11477.
+- Eloi Alonso, Bastien Moysset, Ronaldo Messina .[Adversarial Generation of Handwritten Text Images Conditioned on Sequences](https://arxiv.org/pdf/1903.00277) .[J] arXiv preprint arXiv:1903.00277.
+- Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal .[STEFANN: Scene Text Editor using Font Adaptive Neural Network](https://arxiv.org/pdf/1903.01192) .[J] arXiv preprint arXiv:1903.01192.
+- Zhanzhan Cheng, Jing Lu, Jianwen Xie, Yi Niu, Shiliang Pu, Fei Wu .[Efficient Video Scene Text Spotting: Unifying Detection, Tracking, and Recognition](https://arxiv.org/pdf/1903.03299) .[J] arXiv preprint arXiv:1903.03299.
+- Bastien Moysset, Ronaldo Messina .[Manifold Mixup improves text recognition with CTC loss](https://arxiv.org/pdf/1903.04246) .[J] arXiv preprint arXiv:1903.04246.
+- Johannes Michael, Roger Labahn, Tobias Grüning, Jochen Zöllner .[Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition](https://arxiv.org/pdf/1903.07377) .[J] arXiv preprint arXiv:1903.07377.
+- Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh .[Towards Robust Curve Text Detection with Conditional Spatial Expansion](https://arxiv.org/pdf/1903.08836) .[J] arXiv preprint arXiv:1903.08836.
+- Zhao Zhou, Shufan Wu, Shuchen Kong, Yingbin Zheng, Hao Ye, Luhui Chen, Jian Pu .[Curve Text Detection with Local Segmentation Network and Curve Connection](https://arxiv.org/pdf/1903.09837) .[J] arXiv preprint arXiv:1903.09837.
+- 【Dataset】Chongsheng Zhang, Guowen Peng, Yuefeng Tao, Feifei Fu, Wei Jiang, George Almpanidis, Ke Chen .[ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views](https://arxiv.org/pdf/1903.10412) .[J] arXiv preprint arXiv:1903.10412.
+- Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, Xin Li, Qingjie Liu .[Pyramid Mask Text Detector](https://arxiv.org/pdf/1903.11800) .[J] arXiv preprint arXiv:1903.11800.
+- Xiaohui Zhao, Zhuo Wu, Xiaoguang Wang .[CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor](https://arxiv.org/pdf/1903.12363) .[J] arXiv preprint arXiv:1903.12363.
+- Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao .[Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473) .[J] arXiv preprint arXiv:1903.12473.
 
 ## Datasets
 
