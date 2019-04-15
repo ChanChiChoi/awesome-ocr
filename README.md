@@ -75,6 +75,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 
 ### 2015
 
+- Kim B S, Koo H I, Cho N I. Document dewarping via text-line based optimization[J]. Pattern Recognition, 2015, 48(11): 3600-3614.
 - Ye Q, Doermann D. Text detection and recognition in imagery: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 37(7): 1480-1500.
 - Jaderberg M. Deep learning for text spotting[D]. University of Oxford, 2015.
 - Ren X, Chen K, Yang X, et al. A new unsupervised convolutional neural network model for Chinese scene text detection[C]//Signal and Information Processing (ChinaSIP), 2015 IEEE China Summit and International Conference on. IEEE, 2015: 428-432.
@@ -155,6 +156,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 
 ### 2017
 
+- Kil T, Seo W, Koo H I, et al. Robust Document Image Dewarping Method Using Text-Lines and Line Segments[C]//2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR). IEEE, 2017, 1: 865-870.<br>[code:[xellows1305/Document-Image-Dewarping](https://github.com/xellows1305/Document-Image-Dewarping)]
 - Raj D, SAHU S, Anand A. [Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text](http://www.aclweb.org/anthology/K17-1032)[C]//Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017). 2017: 311-321.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/desh2608/crnn-relation-classification)]
 - Florian Fink, Klaus-U. Schulz, Uwe Springmann. [Profiling of OCR'ed Historical Texts Revisited](https://arxiv.org/abs/1701.05377).  arXiv preprint arXiv:1701.05377, 2017.
