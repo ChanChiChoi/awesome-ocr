@@ -320,6 +320,17 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Jingchao Liu, Xuebo Liu, Jie Sheng, Ding Liang, Xin Li, Qingjie Liu .[Pyramid Mask Text Detector](https://arxiv.org/pdf/1903.11800) .[J] arXiv preprint arXiv:1903.11800.
 - Xiaohui Zhao, Zhuo Wu, Xiaoguang Wang .[CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor](https://arxiv.org/pdf/1903.12363) .[J] arXiv preprint arXiv:1903.12363.
 - Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao .[Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473) .[J] arXiv preprint arXiv:1903.12473.
+- Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie .[Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/pdf/1904.00813) .[J] arXiv preprint arXiv:1904.00813.
+- 【Dataset】Simone Bonechi, Paolo Andreini, Monica Bianchini, Franco Scarselli .[COCO_TS Dataset: Pixel-level Annotations Based on Weak Supervision for Scene Text Segmentation](https://arxiv.org/pdf/1904.00818) .[J] arXiv preprint arXiv:1904.00818.
+- Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang .[A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition](https://arxiv.org/pdf/1904.01375) .[J] arXiv preprint arXiv:1904.01375.
+- Jeonghun Baek, Geewook Kim, Junyeop Lee, Sungrae Park, Dongyoon Han, Sangdoo Yun, Seong Joon Oh, Hwalsuk Lee .[What is wrong with scene text recognition model comparisons? dataset and model analysis](https://arxiv.org/pdf/1904.01906) .[J] arXiv preprint arXiv:1904.01906.
+- Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee .[Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941) .[J] arXiv preprint arXiv:1904.01941.
+- Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding .[Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/pdf/1904.06535) .[J] arXiv preprint arXiv:1904.06535.
+- Vinoj Jayasundara, Sandaru Jayasekara, Hirunima Jayasekara, Jathushan Rajasegaran, Suranga Seneviratne, Ranga Rodrigo .[TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095) .[J] arXiv preprint arXiv:1904.08095.
+- R. Reeve Ingle, Yasuhisa Fujii, Thomas Deselaers, Jonathan Baccash, Ashok C. Popat .[A Scalable Handwritten Text Recognition System](https://arxiv.org/pdf/1904.09150) .[J] arXiv preprint arXiv:1904.09150.
+- Qingqing Wang, Wenjing Jia, Xiangjian He, Yue Lu, Michael Blumenstein, Ye Huang .[FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/pdf/1904.09405) .[J] arXiv preprint arXiv:1904.09405.
+- Fady Medhat, Mahnaz Mohammadi, Sardar Jaf, Chris G. Willcocks, Toby P. Breckon, Peter Matthews, Andrew Stephen McGough, Georgios Theodoropoulos, Boguslaw Obara .[TMIXT: A process flow for Transcribing MIXed handwritten and machine-printed Text](https://arxiv.org/pdf/1904.12387) .[J] arXiv preprint arXiv:1904.12387.
+- Weijia Wu, Jici Xing, Hong Zhou .[TextCohesion: Detecting Text for Arbitrary Shapes](https://arxiv.org/pdf/1904.12640) .[J] arXiv preprint arXiv:1904.12640.
 
 ## Datasets
 
