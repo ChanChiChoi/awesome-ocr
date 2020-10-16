@@ -478,6 +478,17 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Authors:Shengjun Liu, Ningkang Jiang, Yuanbin Wu .[Visual Attack and Defense on Text](https://arxiv.org/pdf/2008.10356) [J]. arXiv preprint arXiv:2008.10356.
 - Authors:Chenhan Zhang .[Complicating the Social Networks for Better Storytelling: An Empirical Study of Chinese Historical Text and Novel](https://arxiv.org/pdf/2008.10835) [J]. arXiv preprint arXiv:2008.10835.
 - Authors:Chunhui Li, Xingshu Chen, Haizhou Wang, Yu Zhang, Peiming Wang .[An End-to-End Attack on Text-based CAPTCHAs Based on Cycle-Consistent Generative Adversarial Network](https://arxiv.org/pdf/2008.11603) [J]. arXiv preprint arXiv:2008.11603.
+- Brian Davis, Chris Tensmeyer, Brian Price, Curtis Wigington, Bryan Morse, Rajiv Jain .[Text and Style Conditioned GAN for Generation of Offline Handwriting Lines](https://arxiv.org/pdf/2009.00678) [J]. arXiv preprint arXiv:2009.00678.
+- Weijia Wu, Ning Lu, Enze Xie .[Synthetic-to-Real Unsupervised Domain Adaptation for Scene Text Detection in the Wild](https://arxiv.org/pdf/2009.01766) [J]. arXiv preprint arXiv:2009.01766.
+- Mohammad Fasha, Bassam Hammo, Nadim Obeid, Jabir Widian .[A Hybrid Deep Learning Model for Arabic Text Recognition](https://arxiv.org/pdf/2009.01987) [J]. arXiv preprint arXiv:2009.01987.
+- Julián Del Gobbo, Rosana Matuk Herrera .[Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042) [J]. arXiv preprint arXiv:2009.04042.
+- Hung Tuan Nguyen, Cuong Tuan Nguyen, Takeya Ino, Bipin Indurkhya, Masaki Nakagawa .[Text-independent writer identification using convolutional neural network](https://arxiv.org/pdf/2009.04877) [J]. arXiv preprint arXiv:2009.04877.
+- Chuhan Zhang, Ankush Gupta, Andrew Zisserman .[Adaptive Text Recognition through Visual Matching](https://arxiv.org/pdf/2009.06610) [J]. arXiv preprint arXiv:2009.06610.
+- Pawan Kumar Singh, Iman Chatterjee, Ram Sarkar, Mita Nasipuri .[Handwritten Script Identification from Text Lines](https://arxiv.org/pdf/2009.07433) [J]. arXiv preprint arXiv:2009.07433.
+- Yizhi Wang, Zhouhui Lian .[Exploring Font-independent Features for Scene Text Recognition](https://arxiv.org/pdf/2009.07447) [J]. arXiv preprint arXiv:2009.07447.
+- Andres Mafla, Sounak Dey, Ali Furkan Biten, Lluis Gomez, Dimosthenis Karatzas .[Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval](https://arxiv.org/pdf/2009.09809) [J]. arXiv preprint arXiv:2009.09809.
+- Bingcong Li, Xin Tang, Xianbiao Qi, Yihao Chen, Rong Xiao .[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/pdf/2009.10874) [J]. arXiv preprint arXiv:2009.10874.
+- Jianqi Ma .[RRPN++: Guidance Towards More Accurate Scene Text Detection](https://arxiv.org/pdf/2009.13118) [J]. arXiv preprint arXiv:2009.13118.
 
 
 ## Datasets
