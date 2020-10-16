@@ -116,7 +116,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Qiang G, Dan T, Guohui L, et al. [Memory Matters: Convolutional Recurrent Neural Network for Scene Text Recognition](https://arxiv.org/abs/1601.01100)[J]. arXiv preprint arXiv:1601.01100, 2016.
 - Mishra A, Alahari K, Jawahar C V. [Enhancing energy minimization framework for scene text recognition with top-down cues](https://arxiv.org/abs/1601.03128)[J]. Computer Vision and Image Understanding, 2016, 145: 30-42.
 - Li H, Shen C. [Reading car license plates using deep convolutional neural networks and lstms](https://arxiv.org/abs/1601.05610)[J]. arXiv preprint arXiv:1601.05610, 2016.
-- Veit A, Matera T, Neumann L, et al. [Coco-text: Dataset and benchmark for text detection and recognition in natural images](https://arxiv.org/abs/1601.07140)[J]. arXiv preprint arXiv:1601.07140, 2016.
+- 【Dataset】Veit A, Matera T, Neumann L, et al. [Coco-text: Dataset and benchmark for text detection and recognition in natural images](https://arxiv.org/abs/1601.07140)[J]. arXiv preprint arXiv:1601.07140, 2016.
 - Huang W. [Context modeling for semantic text matching and scene text detection](https://etda.libraries.psu.edu/files/final_submissions/12356)[M]. The Pennsylvania State University, 2016.
 - Tian S, Pei W Y, Zuo Z Y, et al. [Scene Text Detection in Video by Learning Locally and Globally](https://pdfs.semanticscholar.org/bf91/183c6c60a08754ab4b557302501372556394.pdf)[C]//IJCAI. 2016: 2647-2653.
 - Shi B, Wang X, Lyu P, et al. [Robust scene text recognition with automatic rectification](https://arxiv.org/abs/1603.03915)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4168-4176.
@@ -143,7 +143,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
     &nbsp;&nbsp;&nbsp;&nbsp; **dataset**:<u>[ICDAR 2011; ICDAR 2013; ICDAR 2015; SWT; Multilingual dataset]</u> 
 - Xie Z, Sun Z, Jin L, et al. [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten chinese text recognition](https://arxiv.org/abs/1610.02616)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017.
 - Hu B, Liu X, Wu X, et al. [Stroke Sequence-Dependent Deep Convolutional Neural Network for Online Handwritten Chinese Character Recognition](https://arxiv.org/abs/1610.04057)[J]. arXiv preprint arXiv:1610.04057, 2016.
-- Ahmed Ibrahim, A. Lynn Abbott, Mohamed E. Hussein. [An Image Dataset of Text Patches in Everyday Scenes](https://arxiv.org/abs/1610.06494). arXiv preprint arXiv:1610.06494, 2016.
+- 【Dataset】Ahmed Ibrahim, A. Lynn Abbott, Mohamed E. Hussein. [An Image Dataset of Text Patches in Everyday Scenes](https://arxiv.org/abs/1610.06494). arXiv preprint arXiv:1610.06494, 2016.
 - Lou X, Kansky K, Lehrach W, et al. [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/abs/1611.02788)[C]//Advances in Neural Information Processing Systems. 2016: 2793-2801.
 - Xu Y, Shan S, Qiu Z, et al. [End-to-End Subtitle Detection and Recognition for Videos in East Asian Languages via CNN Ensemble with Near-Human-Level Performance](https://arxiv.org/abs/1611.06159)[J]. arXiv preprint arXiv:1611.06159, 2016.
 - Chengzhe Yan, Jie Hu, Changshui Zhang. [A DNN Framework For Text Image Rectification From Planar Transformations](https://arxiv.org/abs/1611.04298). arXiv preprint arXiv:1611.04298, 2016.
@@ -162,7 +162,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Florian Fink, Klaus-U. Schulz, Uwe Springmann. [Profiling of OCR'ed Historical Texts Revisited](https://arxiv.org/abs/1701.05377).  arXiv preprint arXiv:1701.05377, 2017.
 - Cheang T K, Chong Y S, Tay Y H. [Segmentation-free Vehicle License Plate Recognition using ConvNet-RNN](https://arxiv.org/abs/1701.06439)[J]. arXiv preprint arXiv:1701.06439, 2017.
 - Shahin A A. [Printed Arabic Text Recognition using Linear and Nonlinear Regression](https://arxiv.org/abs/1702.01444)[J]. arXiv preprint arXiv:1702.01444, 2017.
-- Smith R, Gu C, Lee D S, et al. [End-to-end interpretation of the french street name signs dataset](https://arxiv.org/abs/1702.03970)[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 411-426.<br>
+- 【Dataset】Smith R, Gu C, Lee D S, et al. [End-to-end interpretation of the french street name signs dataset](https://arxiv.org/abs/1702.03970)[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 411-426.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/tensorflow/models/tree/master/street)]
 - Bazazian D, Gomez R, Nicolaou A, et al. [Improving Text Proposals for Scene Images with Fully Convolutional Networks](https://arxiv.org/abs/1702.05089)[J]. arXiv preprint arXiv:1702.05089, 2017.
 - 【synthetic Captcha】Le T A, Baydin A G, Zinkov R, et al. [Using Synthetic Data to Train Neural Networks is Model-Based Reasoning](https://arxiv.org/abs/1703.00868)[J]. arXiv preprint arXiv:1703.00868, 2017.
@@ -213,14 +213,14 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Zhan H, Wang Q, Lu Y. [Handwritten digit string recognition by combination of residual network and RNN-CTC](https://arxiv.org/abs/1710.03112)[C]//International Conference on Neural Information Processing. Springer, Cham, 2017: 583-591.
 - Yang C, Yin X C, Li Z, et al. [AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition](https://arxiv.org/abs/1710.03425)[J]. arXiv preprint arXiv:1710.03425, 2017.
 - Tian S, Lu S, Li C. [WeText: Scene Text Detection under Weak Supervision](https://arxiv.org/abs/1710.04826)[J]. arXiv preprint arXiv:1710.04826, 2017.
-- Kheng Chng C, Chan C S. [Total-Text: A Comprehensive Dataset for Scene Text Detection and Recognition](https://arxiv.org/abs/1710.10400)[J]. arXiv preprint arXiv:1710.10400, 2017.
+- 【Dataset】Kheng Chng C, Chan C S. [Total-Text: A Comprehensive Dataset for Scene Text Detection and Recognition](https://arxiv.org/abs/1710.10400)[J]. arXiv preprint arXiv:1710.10400, 2017.
 - Jain M, Mathew M, Jawahar C V. [Unconstrained scene text and video text recognition for Arabic script](https://arxiv.org/abs/1711.02396)[C]//Arabic Script Analysis and Recognition (ASAR), 2017 1st International Workshop on. IEEE, 2017: 26-30.
 - Ren H, Wang W. [A New Hybrid-parameter Recurrent Neural Networks for Online Handwritten Chinese Character Recognition](https://arxiv.org/abs/1711.02809)[J]. arXiv preprint arXiv:1711.02809, 2017.
 - Zhu X, Jiang Y, Yang S, et al. [Deep Residual Text Detection Network for Scene Text](https://arxiv.org/abs/1711.04147)[J]. arXiv preprint arXiv:1711.04147, 2017.
 - Cheng Z, Liu X, Bai F, et al. [Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)[J]. arXiv preprint arXiv:1711.04226, 2017.
 - Zhang S, Liu Y, Jin L, et al. [Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/abs/1711.04249)[J]. arXiv preprint arXiv:1711.04249, 2017.
 - Xing D, Li Z, Chen X, et al. [ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene](https://arxiv.org/abs/1711.11249)[J]. arXiv preprint arXiv:1711.11249, 2017.
-- Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.<br>
+- 【Dataset】Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/Yuliang-Liu/Curve-Text-Detector)]
 - Jason Poulos, Rafael Valle. [Attention networks for image-to-text](https://arxiv.org/abs/1712.04046). arXiv preprint arXiv:1712.04046, 2017.
 - Aarushi Agrawal, Prerana Mukherjee, Siddharth Srivastava, Brejesh Lall. [Enhanced Characterness for Text Detection in the Wild](https://arxiv.org/abs/1712.04927). arXiv preprint arXiv:1712.04927, 2017.
@@ -326,7 +326,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Jeonghun Baek, Geewook Kim, Junyeop Lee, Sungrae Park, Dongyoon Han, Sangdoo Yun, Seong Joon Oh, Hwalsuk Lee .[What is wrong with scene text recognition model comparisons? dataset and model analysis](https://arxiv.org/pdf/1904.01906) .[J] arXiv preprint arXiv:1904.01906.
 - Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee .[Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941) .[J] arXiv preprint arXiv:1904.01941.
 - Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding .[Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/pdf/1904.06535) .[J] arXiv preprint arXiv:1904.06535.
-- Vinoj Jayasundara, Sandaru Jayasekara, Hirunima Jayasekara, Jathushan Rajasegaran, Suranga Seneviratne, Ranga Rodrigo .[TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095) .[J] arXiv preprint arXiv:1904.08095.
+- 【Dataset】Vinoj Jayasundara, Sandaru Jayasekara, Hirunima Jayasekara, Jathushan Rajasegaran, Suranga Seneviratne, Ranga Rodrigo .[TextCaps : Handwritten Character Recognition with Very Small Datasets](https://arxiv.org/pdf/1904.08095) .[J] arXiv preprint arXiv:1904.08095.
 - R. Reeve Ingle, Yasuhisa Fujii, Thomas Deselaers, Jonathan Baccash, Ashok C. Popat .[A Scalable Handwritten Text Recognition System](https://arxiv.org/pdf/1904.09150) .[J] arXiv preprint arXiv:1904.09150.
 - Qingqing Wang, Wenjing Jia, Xiangjian He, Yue Lu, Michael Blumenstein, Ye Huang .[FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/pdf/1904.09405) .[J] arXiv preprint arXiv:1904.09405.
 - Fady Medhat, Mahnaz Mohammadi, Sardar Jaf, Chris G. Willcocks, Toby P. Breckon, Peter Matthews, Andrew Stephen McGough, Georgios Theodoropoulos, Boguslaw Obara .[TMIXT: A process flow for Transcribing MIXed handwritten and machine-printed Text](https://arxiv.org/pdf/1904.12387) .[J] arXiv preprint arXiv:1904.12387.
@@ -338,7 +338,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Arka Ujjal Dey, Suman Kumar Ghosh, Ernest Valveny .[Beyond Visual Semantics: Exploring the Role of Scene Text in Image Understanding](https://arxiv.org/pdf/1905.10622) [J]. arXiv preprint arXiv:1905.10622.
 - Ali Furkan Biten, Ruben Tito, Andres Mafla, Lluis Gomez, Marçal Rusiñol, Ernest Valveny, C.V. Jawahar, Dimosthenis Karatzas .[Scene Text Visual Question Answering](https://arxiv.org/pdf/1905.13648) [J]. arXiv preprint arXiv:1905.13648.
 - Raul Gomez, Ali Furkan Biten, Lluis Gomez, Jaume Gibert, Marçal Rusiñol, Dimosthenis Karatzas .[Selective Style Transfer for Text](https://arxiv.org/pdf/1906.01466) [J]. arXiv preprint arXiv:1906.01466.
-- Hongyu Li, Fan Zhu, Junhua Qiu .[Towards Document Image Quality Assessment: A Text Line Based Framework and A Synthetic Text Line Image Dataset](https://arxiv.org/pdf/1906.01907) [J]. arXiv preprint arXiv:1906.01907.
+- 【Dataset】Hongyu Li, Fan Zhu, Junhua Qiu .[Towards Document Image Quality Assessment: A Text Line Based Framework and A Synthetic Text Line Image Dataset](https://arxiv.org/pdf/1906.01907) [J]. arXiv preprint arXiv:1906.01907.
 - Yuliang Liu, Sheng Zhang, Lianwen Jin, Lele Xie, Yaqiang Wu, Zhepeng Wang .[Omnidirectional Scene Text Detection with Sequential-free Box Discretization](https://arxiv.org/pdf/1906.02371) [J]. arXiv preprint arXiv:1906.02371.
 - Junho Jo, Hyung Il Koo, Jae Woong Soh, Nam Ik Cho .[Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/pdf/1906.05229) [J]. arXiv preprint arXiv:1906.05229.
 - Pengyuan Lyu, Zhicheng Yang, Xinhang Leng, Xiaojun Wu, Ruiyu Li, Xiaoyong Shen .[2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/pdf/1906.05708) [J]. arXiv preprint arXiv:1906.05708.
@@ -442,7 +442,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Xiaoxue Chen, Lianwen Jin, Yuanzhi Zhu, Canjie Luo, Tianwei Wang .[Text Recognition in the Wild: A Survey](https://arxiv.org/pdf/2005.03492) [J]. arXiv preprint arXiv:2005.03492.
 - Zhaoyi Wan, Jielei Zhang, Liang Zhang, Jiebo Luo, Cong Yao .[On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/pdf/2005.03959) [J]. arXiv preprint arXiv:2005.03959.
 - Atique Ur Rehman, Sibt Ul Hussain .[Large Scale Font Independent Urdu Text Recognition System](https://arxiv.org/pdf/2005.06752) [J]. arXiv preprint arXiv:2005.06752.
-- Sangeeth Reddy, Minesh Mathew, Lluis Gomez, Marcal Rusinol, Dimosthenis Karatzas., C.V. Jawahar .[RoadText-1K: Text Detection & Recognition Dataset for Driving Videos](https://arxiv.org/pdf/2005.09496) [J]. arXiv preprint arXiv:2005.09496.
+- 【Dataset】Sangeeth Reddy, Minesh Mathew, Lluis Gomez, Marcal Rusinol, Dimosthenis Karatzas., C.V. Jawahar .[RoadText-1K: Text Detection & Recognition Dataset for Driving Videos](https://arxiv.org/pdf/2005.09496) [J]. arXiv preprint arXiv:2005.09496.
 - Zhi Qiao, Yu Zhou, Dongbao Yang, Yucan Zhou, Weiping Wang .[SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/pdf/2005.10977) [J]. arXiv preprint arXiv:2005.10977.
 - Yudi Chen, Wei Wang, Yu Zhou, Fei Yang, Dongbao Yang, Weiping Wang .[Self-Training for Domain Adaptive Scene Text Detection](https://arxiv.org/pdf/2005.11487) [J]. arXiv preprint arXiv:2005.11487.
 - Mayank Kumar Singh, Sayan Banerjee, Shubhasis Chaudhuri .[NENET: An Edge Learnable Network for Link Prediction in Scene Text](https://arxiv.org/pdf/2005.12147) [J]. arXiv preprint arXiv:2005.12147.
@@ -481,7 +481,7 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Brian Davis, Chris Tensmeyer, Brian Price, Curtis Wigington, Bryan Morse, Rajiv Jain .[Text and Style Conditioned GAN for Generation of Offline Handwriting Lines](https://arxiv.org/pdf/2009.00678) [J]. arXiv preprint arXiv:2009.00678.
 - Weijia Wu, Ning Lu, Enze Xie .[Synthetic-to-Real Unsupervised Domain Adaptation for Scene Text Detection in the Wild](https://arxiv.org/pdf/2009.01766) [J]. arXiv preprint arXiv:2009.01766.
 - Mohammad Fasha, Bassam Hammo, Nadim Obeid, Jabir Widian .[A Hybrid Deep Learning Model for Arabic Text Recognition](https://arxiv.org/pdf/2009.01987) [J]. arXiv preprint arXiv:2009.01987.
-- Julián Del Gobbo, Rosana Matuk Herrera .[Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042) [J]. arXiv preprint arXiv:2009.04042.
+- 【Dataset】Julián Del Gobbo, Rosana Matuk Herrera .[Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042) [J]. arXiv preprint arXiv:2009.04042.
 - Hung Tuan Nguyen, Cuong Tuan Nguyen, Takeya Ino, Bipin Indurkhya, Masaki Nakagawa .[Text-independent writer identification using convolutional neural network](https://arxiv.org/pdf/2009.04877) [J]. arXiv preprint arXiv:2009.04877.
 - Chuhan Zhang, Ankush Gupta, Andrew Zisserman .[Adaptive Text Recognition through Visual Matching](https://arxiv.org/pdf/2009.06610) [J]. arXiv preprint arXiv:2009.06610.
 - Pawan Kumar Singh, Iman Chatterjee, Ram Sarkar, Mita Nasipuri .[Handwritten Script Identification from Text Lines](https://arxiv.org/pdf/2009.07433) [J]. arXiv preprint arXiv:2009.07433.
