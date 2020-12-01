@@ -489,6 +489,10 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Andres Mafla, Sounak Dey, Ali Furkan Biten, Lluis Gomez, Dimosthenis Karatzas .[Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval](https://arxiv.org/pdf/2009.09809) [J]. arXiv preprint arXiv:2009.09809.
 - Bingcong Li, Xin Tang, Xianbiao Qi, Yihao Chen, Rong Xiao .[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/pdf/2009.10874) [J]. arXiv preprint arXiv:2009.10874.
 - Jianqi Ma .[RRPN++: Guidance Towards More Accurate Scene Text Detection](https://arxiv.org/pdf/2009.13118) [J]. arXiv preprint arXiv:2009.13118.
+- Julián Del Gobbo, Rosana Matuk Herrera .[Unconstrained Text Detection in Manga](https://arxiv.org/pdf/2010.03997) [J]. arXiv preprint arXiv:2010.03997.
+- Shao Wei Wang, Guan Jie Huang, Xiang Yu Luo .[A Human Eye-based Text Color Scheme Generation Method for Image Synthesis](https://arxiv.org/pdf/2010.07510) [J]. arXiv preprint arXiv:2010.07510.
+- Zhi Qiao, Xugong Qin, Yu Zhou, Fei Yang, Weiping Wang .[Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/pdf/2010.09169) [J]. arXiv preprint arXiv:2010.09169.
+- Dongyoung Kim, Myungsung Kwak, Eunji Won, Sejung Shin, Jeongyeon Nam .[TLGAN: document Text Localization using Generative Adversarial Nets](https://arxiv.org/pdf/2010.11547) [J]. arXiv preprint arXiv:2010.11547.
 
 
 ## Datasets
