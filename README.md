@@ -493,6 +493,15 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Shao Wei Wang, Guan Jie Huang, Xiang Yu Luo .[A Human Eye-based Text Color Scheme Generation Method for Image Synthesis](https://arxiv.org/pdf/2010.07510) [J]. arXiv preprint arXiv:2010.07510.
 - Zhi Qiao, Xugong Qin, Yu Zhou, Fei Yang, Weiping Wang .[Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/pdf/2010.09169) [J]. arXiv preprint arXiv:2010.09169.
 - Dongyoung Kim, Myungsung Kwak, Eunji Won, Sejung Shin, Jeongyeon Nam .[TLGAN: document Text Localization using Generative Adversarial Nets](https://arxiv.org/pdf/2010.11547) [J]. arXiv preprint arXiv:2010.11547.
+- Shuonan Pei, Mingzhi Zhu .[Real-Time Text Detection and Recognition](https://arxiv.org/pdf/2011.00380) [J]. arXiv preprint arXiv:2011.00380.
+- Shubham Vatsal, Nikhil Arora, Gopi Ramena, Sukumar Moharana, Dhruval Jain, Naresh Purre, Rachit S Munjal .[On-Device Language Identification of Text in Images using Diacritic Characters](https://arxiv.org/pdf/2011.05108) [J]. arXiv preprint arXiv:2011.05108.
+- Shruti Rijhwani, Antonios Anastasopoulos, Graham Neubig .[OCR Post Correction for Endangered Language Texts](https://arxiv.org/pdf/2011.05402) [J]. arXiv preprint arXiv:2011.05402.
+- Kunhong Yu, Yuze Zhang .[Digging Deeper into CRNN Model in Chinese Text Images Recognition](https://arxiv.org/pdf/2011.08505) [J]. arXiv preprint arXiv:2011.08505.
+- Xuewei Bian, Chaoqun Wang, Weize Quan, Juntao Ye, Xiaopeng Zhang, Dong-Ming Yan .[Scene text removal via cascaded text stroke detection and erasing](https://arxiv.org/pdf/2011.09768) [J]. arXiv preprint arXiv:2011.09768.
+- Yuanqiang Cai, Chang Liu, Weiqiang Wang, Qixiang Ye .[Towards Spatio-Temporal Video Scene Text Detection via Temporal Clustering](https://arxiv.org/pdf/2011.09781) [J]. arXiv preprint arXiv:2011.09781.
+- Dhruval Jain, Arun D Prabhu, Gopi Ramena, Manoj Goyal, Debi Prasanna Mohanty, Sukumar Moharana, Naresh Purre .[On-Device Text Image Super Resolution](https://arxiv.org/pdf/2011.10251) [J]. arXiv preprint arXiv:2011.10251.
+- Weijia Wu, Enze Xie, Ruimao Zhang, Wenhai Wang, Guan Pang, Zhen Li, Hong Zhou, Ping Luo .[SelfText Beyond Polygon: Unconstrained Text Detection with Box Supervision and Dynamic Self-Training](https://arxiv.org/pdf/2011.13307) [J]. arXiv preprint arXiv:2011.13307.
+- Chuang Yang, Zhitong Xiong, Mulin Chen, Qi Wang, Xuelong Li .[BOTD: Bold Outline Text Detector](https://arxiv.org/pdf/2011.14714) [J]. arXiv preprint arXiv:2011.14714.
 
 
 ## Datasets
