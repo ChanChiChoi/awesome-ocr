@@ -517,6 +517,17 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Vasiliki Tassopoulou, George Retsinas, Petros Maragos .[Enhancing Handwritten Text Recognition with N-gram sequence decomposition and Multitask Learning](https://arxiv.org/pdf/2012.14459) [J]. arXiv preprint arXiv:2012.14459.
 
 
+---
+### 2021
+- Sagar Gubbi, Bharadwaj Amrutur .[Scene Text Detection for Augmented Reality -- Character Bigram Approach to reduce False Positive Rate](https://arxiv.org/pdf/2101.01054) [J]. arXiv preprint arXiv:2101.01054.
+- Fukang Tian, Haiyu Wu, Bo Xu .[Research on Fast Text Recognition Method for Financial Ticket Image](https://arxiv.org/pdf/2101.01310) [J]. arXiv preprint arXiv:2101.01310.
+- Rulin Shao, Zhouxing Shi, Jinfeng Yi, Pin-Yu Chen, Cho-Jui Hsieh .[Robust Text CAPTCHAs Using Adversarial Examples](https://arxiv.org/pdf/2101.02483) [J]. arXiv preprint arXiv:2101.02483.
+- Berat Kurar Barakat, Ahmad Droby, Reem Alaasam, Boraq Madi, Irina Rabaev, Jihad El-Sana .[Text line extraction using fully convolutional network and energy minimization](https://arxiv.org/pdf/2101.07370) [J]. arXiv preprint arXiv:2101.07370.
+- Berat Kurar Barakat, Rafi Cohen, Irina Rabaev, Jihad El-Sana .[VML-MOC: Segmenting a multiply oriented and curved handwritten text lines dataset](https://arxiv.org/pdf/2101.07542) [J]. arXiv preprint arXiv:2101.07542.
+- Berat Barakat, Ahmad Droby, Majeed Kassis, Jihad El-Sana .[Text Line Segmentation for Challenging Handwritten Document Images Using Fully Convolutional Network](https://arxiv.org/pdf/2101.08299) [J]. arXiv preprint arXiv:2101.08299.
+- Christian M. Dahl, Torben Johansen, Emil N. Sørensen, Simon Wittrock .[HANA: A HAndwritten NAme Database for Offline Handwritten Text Recognition](https://arxiv.org/pdf/2101.10862) [J]. arXiv preprint arXiv:2101.10862.
+
+
 ## Datasets
 
 there are three websites that have the dataset list of some different data type:    
