@@ -526,6 +526,8 @@ you can access the website [ICDAR](http://rrc.cvc.uab.es), and see some awesome 
 - Berat Kurar Barakat, Rafi Cohen, Irina Rabaev, Jihad El-Sana .[VML-MOC: Segmenting a multiply oriented and curved handwritten text lines dataset](https://arxiv.org/pdf/2101.07542) [J]. arXiv preprint arXiv:2101.07542.
 - Berat Barakat, Ahmad Droby, Majeed Kassis, Jihad El-Sana .[Text Line Segmentation for Challenging Handwritten Document Images Using Fully Convolutional Network](https://arxiv.org/pdf/2101.08299) [J]. arXiv preprint arXiv:2101.08299.
 - Christian M. Dahl, Torben Johansen, Emil N. Sørensen, Simon Wittrock .[HANA: A HAndwritten NAme Database for Offline Handwritten Text Recognition](https://arxiv.org/pdf/2101.10862) [J]. arXiv preprint arXiv:2101.10862.
+- Daniyar Nurseitov, Kairat Bostanbekov, Maksat Kanatov, Anel Alimova, Abdelrahman Abdallah, Galymzhan Abdimanap .[Classification of Handwritten Names of Cities and Handwritten Text Recognition using Various Deep Learning Models](https://arxiv.org/pdf/2102.04816) [J]. arXiv preprint arXiv:2102.04816.
+- Hongxiang Cai, Jun Sun, Yichao Xiong .[CSTR: A Classification Perspective on Scene Text Recognition](https://arxiv.org/pdf/2102.10884) [J]. arXiv preprint arXiv:2102.10884.
 
 
 ## Datasets
